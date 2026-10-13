@@ -1,0 +1,30 @@
+# Secrets / environment
+.env
+.env.*
+!.env.template
+
+# Runtime logs and state (must never enter git; would break project manifest pins)
+**/guard.log
+**/spend.csv
+**/.provisioned
+.superior-os.json
+
+# Caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local project workspaces are NOT ignored on purpose: superior-os/projects/demo/
+# is the committed evidence-gate smoke fixture. Ignore everything else.
+projects/*/
+!projects/demo/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Sandbox scratch
+output/
+scratch/

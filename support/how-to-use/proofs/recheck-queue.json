@@ -1,0 +1,42 @@
+[
+ {
+  "worker": "reprobe",
+  "source": "files/God research/D-design-styles/09-scrapbook.md",
+  "url": "https://www.adobe.com/uk/express/discover/how-to/scrapbook/digital",
+  "http": 403,
+  "reason": "bot-blocked (403); needs human GET or archive source",
+  "date": "2026-10-13"
+ },
+ {
+  "worker": "reprobe",
+  "source": "files/God research/D-design-styles/21-cyberpunk.md",
+  "url": "https://99designs.com/blog/design-history-movements/cyberpunk-design",
+  "http": 403,
+  "reason": "bot-blocked (403); needs human GET or archive source",
+  "date": "2026-10-13"
+ },
+ {
+  "worker": "reprobe",
+  "source": "files/God research/D-design-styles/26-graffiti.md",
+  "url": "https://www.adobe.com/uk/express/learn/blog/all-about-graffiti-art",
+  "http": 403,
+  "reason": "bot-blocked (403); needs human GET or archive source",
+  "date": "2026-10-13"
+ },
+ {
+  "worker": "reprobe",
+  "source": "files/God research/D-design-styles/27-gothic.md",
+  "url": "https://www.adobe.com/uk/express/learn/blog/what-is-pastel-goth",
+  "http": 403,
+  "reason": "bot-blocked (403); needs human GET or archive source",
+  "date": "2026-10-13"
+ },
+ {
+  "worker": "reprobe",
+  "source": "files/God research/D-design-styles/28-mixed-media.md",
+  "url": "https://www.britannica.com/art/mixed-media",
+  "http": 403,
+  "reason": "bot-blocked (403); needs human GET or archive source",
+  "date": "2026-10-13"
+ }
+]

@@ -1,0 +1,711 @@
+# Index — every source to card to manual
+
+707 cards. Every card appears in >=1 manual.
+
+- files/God research - gemini/00-README-second-pass.md -> report | parts/09-gemini-secondpass-6.md:1 | Verified
+- files/God research - gemini/01-core-web-tech.md -> tool | parts/09-gemini-secondpass-6.md:54 | Verified
+- files/God research - gemini/02-design-styles.md -> style | parts/09-gemini-secondpass-6.md:1015 | Verified
+- files/God research - gemini/03-skills-mcp.md -> skill | parts/09-gemini-secondpass-6.md:1644 | Verified
+- files/God research - gemini/04-agents-harness-context.md -> agent | parts/09-gemini-secondpass-6.md:2190 | Verified
+- files/God research - gemini/05-infra-ops.md -> tool | parts/09-gemini-secondpass-6.md:3101 | Verified
+- files/God research - gemini/06-watchlist-prompts.md -> watchlist | parts/09-gemini-secondpass-6.md:4145 | Verified
+- files/God research/00-phase0-inventory.md -> finding | parts/07-watchlist-prompts-CE.md:519 | Verified
+- files/God research/A-master-index.md -> finding | parts/07-watchlist-prompts-CE.md:421 | Verified
+- files/God research/B-category-catalogs/01-core-web-tech.md -> finding | parts/05-firstpass-B-catalogs.md:1 | Verified
+- files/God research/B-category-catalogs/02-frontend.md -> finding | parts/05-firstpass-B-catalogs.md:499 | Verified
+- files/God research/B-category-catalogs/03-backend.md -> tool | parts/05-firstpass-B-catalogs.md:1079 | Partially
+- files/God research/B-category-catalogs/04-data.md -> tool | parts/05-firstpass-B-catalogs.md:1620 | Partially
+- files/God research/B-category-catalogs/05-builders.md -> tool | parts/05-firstpass-B-catalogs.md:2124 | Partially
+- files/God research/B-category-catalogs/06-design-systems.md -> style | parts/05-firstpass-B-catalogs.md:2744 | Partially
+- files/God research/B-category-catalogs/07-design-to-code.md -> tool | parts/05-firstpass-B-catalogs.md:2922 | Partially
+- files/God research/B-category-catalogs/08-visual-assets.md -> style | parts/05-firstpass-B-catalogs.md:3096 | Partially
+- files/God research/B-category-catalogs/09-skills.md -> skill | parts/05-firstpass-B-catalogs.md:3274 | Partially
+- files/God research/B-category-catalogs/10-mcp.md -> mcp | parts/05-firstpass-B-catalogs.md:3855 | Verified
+- files/God research/B-category-catalogs/11-agents.md -> agent | parts/05-firstpass-B-catalogs.md:4640 | Partially
+- files/God research/B-category-catalogs/12-multi-agent.md -> agent | parts/05-firstpass-B-catalogs.md:5159 | Partially
+- files/God research/B-category-catalogs/13-harness.md -> harness | parts/05-firstpass-B-catalogs.md:5640 | Verified
+- files/God research/B-category-catalogs/14-context-memory.md -> tool | parts/05-firstpass-B-catalogs.md:6120 | Partially
+- files/God research/B-category-catalogs/15-scraping.md -> tool | parts/05-firstpass-B-catalogs.md:6645 | Partially
+- files/God research/B-category-catalogs/16-testing.md -> tool | parts/05-firstpass-B-catalogs.md:7068 | Partially
+- files/God research/B-category-catalogs/17-security.md -> finding | parts/05-firstpass-B-catalogs.md:7530 | Verified
+- files/God research/B-category-catalogs/18-cicd.md -> tool | parts/05-firstpass-B-catalogs.md:7957 | Partially
+- files/God research/B-category-catalogs/19-cloud-deploy.md -> tool | parts/05-firstpass-B-catalogs.md:8379 | Partially
+- files/God research/B-category-catalogs/20-seo-cms-commerce.md -> tool | parts/05-firstpass-B-catalogs.md:8801 | Partially
+- files/God research/B-category-catalogs/21-creative-3d.md -> tool | parts/05-firstpass-B-catalogs.md:9265 | Partially
+- files/God research/B-category-catalogs/22-prompt-archives-meta.md -> archive | parts/05-firstpass-B-catalogs.md:9441 | Verified
+- files/God research/B-category-catalogs/23-watchlist.md -> watchlist | parts/05-firstpass-B-catalogs.md:9588 | Verified
+- files/God research/C-named-register-23.md -> watchlist | parts/07-watchlist-prompts-CE.md:1 | Verified
+- files/God research/D-design-styles/00-index-29.md -> style | parts/06-firstpass-D-styles.md:1 | Partially
+- files/God research/D-design-styles/01-minimalism.md -> style | parts/06-firstpass-D-styles.md:57 | Partially
+- files/God research/D-design-styles/02-maximalism.md -> style | parts/06-firstpass-D-styles.md:120 | Partially
+- files/God research/D-design-styles/03-swiss-international-typographic.md -> style | parts/06-firstpass-D-styles.md:179 | Partially
+- files/God research/D-design-styles/04-brutalism.md -> style | parts/06-firstpass-D-styles.md:241 | Partially
+- files/God research/D-design-styles/05-surrealism.md -> style | parts/06-firstpass-D-styles.md:300 | Partially
+- files/God research/D-design-styles/06-neo-brutalism.md -> style | parts/06-firstpass-D-styles.md:353 | Partially
+- files/God research/D-design-styles/07-neoclassical.md -> style | parts/06-firstpass-D-styles.md:410 | Partially
+- files/God research/D-design-styles/08-neumorphism.md -> style | parts/06-firstpass-D-styles.md:466 | Partially
+- files/God research/D-design-styles/09-scrapbook.md -> style | parts/06-firstpass-D-styles.md:524 | Partially
+- files/God research/D-design-styles/10-glassmorphism.md -> style | parts/06-firstpass-D-styles.md:582 | Partially
+- files/God research/D-design-styles/11-claymorphism.md -> style | parts/06-firstpass-D-styles.md:644 | Partially
+- files/God research/D-design-styles/12-bento-grid.md -> style | parts/06-firstpass-D-styles.md:679 | Partially
+- files/God research/D-design-styles/13-pixel-art.md -> style | parts/06-firstpass-D-styles.md:711 | Partially
+- files/God research/D-design-styles/14-conceptual-sketch.md -> style | parts/06-firstpass-D-styles.md:742 | Partially
+- files/God research/D-design-styles/15-luxury-typography.md -> style | parts/06-firstpass-D-styles.md:773 | Partially
+- files/God research/D-design-styles/16-editorial.md -> style | parts/06-firstpass-D-styles.md:804 | Verified
+- files/God research/D-design-styles/17-y2k.md -> style | parts/06-firstpass-D-styles.md:835 | Partially
+- files/God research/D-design-styles/18-ethereal.md -> style | parts/06-firstpass-D-styles.md:867 | Partially
+- files/God research/D-design-styles/19-bohemian.md -> style | parts/06-firstpass-D-styles.md:897 | Partially
+- files/God research/D-design-styles/20-dark-moody.md -> style | parts/06-firstpass-D-styles.md:926 | Partially
+- files/God research/D-design-styles/21-cyberpunk.md -> style | parts/06-firstpass-D-styles.md:958 | Verified
+- files/God research/D-design-styles/22-anthropomorphic.md -> style | parts/06-firstpass-D-styles.md:987 | Partially
+- files/God research/D-design-styles/23-victorian.md -> style | parts/06-firstpass-D-styles.md:1012 | Partially
+- files/God research/D-design-styles/24-cybercore.md -> style | parts/06-firstpass-D-styles.md:1038 | Partially
+- files/God research/D-design-styles/25-synthwave.md -> style | parts/06-firstpass-D-styles.md:1073 | Partially
+- files/God research/D-design-styles/26-graffiti.md -> style | parts/06-firstpass-D-styles.md:1102 | Partially
+- files/God research/D-design-styles/27-gothic.md -> style | parts/06-firstpass-D-styles.md:1125 | Partially
+- files/God research/D-design-styles/28-mixed-media.md -> style | parts/06-firstpass-D-styles.md:1151 | Partially
+- files/God research/D-design-styles/29-body-art-inspired.md -> style | parts/06-firstpass-D-styles.md:1174 | Partially
+- files/God research/DIFF-REPORT-agy-vs-both.md -> report | parts/12-diffs-adjudication.md:147 | Verified
+- files/God research/DIFF-REPORT-atlas-vs-all.md -> report | parts/12-diffs-adjudication.md:210 | Verified
+- files/God research/DIFF-REPORT-gemini-vs-firstpass.md -> report | parts/12-diffs-adjudication.md:28 | Verified
+- files/God research/E-prompt-directory-meta-only.md -> archive | parts/07-watchlist-prompts-CE.md:274 | Verified
+- files/God research/_state/atlas-read-group1.md -> report | parts/12-diffs-adjudication.md:340 | Verified
+- files/God research/_state/atlas-read-group2.md -> report | parts/12-diffs-adjudication.md:425 | Verified
+- files/God research/_state/atlas-read-group3.md -> report | parts/12-diffs-adjudication.md:540 | Verified
+- files/God research/_state/atlas-read-group4.md -> report | parts/12-diffs-adjudication.md:657 | Verified
+- files/God research/_state/resource-index.json -> config | parts/12-diffs-adjudication.md:974 | Verified
+- files/God research/agy-pass/00-README-third-pass.md -> report | parts/10-agy-thirdpass-7.md:1 | Verified
+- files/God research/agy-pass/01-core-web-tech.md -> tool | parts/10-agy-thirdpass-7.md:41 | Verified
+- files/God research/agy-pass/02-design-styles.md -> style | parts/10-agy-thirdpass-7.md:1003 | Verified
+- files/God research/agy-pass/03-skills-mcp.md -> skill | parts/10-agy-thirdpass-7.md:1841 | Verified
+- files/God research/agy-pass/04-agents-harness-context.md -> harness | parts/10-agy-thirdpass-7.md:2683 | Verified
+- files/God research/agy-pass/05-infra-ops.md -> config | parts/10-agy-thirdpass-7.md:3322 | Verified
+- files/God research/agy-pass/06-watchlist-prompts.md -> watchlist | parts/10-agy-thirdpass-7.md:3937 | Verified
+- files/God research/atlas-READ-LOG.md -> report | parts/12-diffs-adjudication.md:280 | Verified
+- files/God research/atlas/A-master-index.md -> finding | parts/08-atlas-33.md:72 | Verified
+- files/God research/atlas/B1-core-web-technologies.md -> tool | parts/08-atlas-33.md:1451 | Partially
+- files/God research/atlas/B2-design-and-visual.md -> finding | parts/08-atlas-33.md:2381 | Verified
+- files/God research/atlas/B3-agent-ecosystem.md -> finding | parts/08-atlas-33.md:2530 | Verified
+- files/God research/atlas/B4-multiagent-harness-context.md -> finding | parts/08-atlas-33.md:2781 | Verified
+- files/God research/atlas/B5-infrastructure-quality.md -> tool | parts/08-atlas-33.md:2933 | Partially
+- files/God research/atlas/C-named-watchlist.md -> watchlist | parts/08-atlas-33.md:3407 | Verified
+- files/God research/atlas/D-design-styles.md -> style | parts/08-atlas-33.md:3841 | Partially
+- files/God research/atlas/E-prompt-archives.md -> archive | parts/08-atlas-33.md:4520 | Verified
+- files/God research/atlas/F-compatibility-index.md -> finding | parts/08-atlas-33.md:4967 | Verified
+- files/God research/atlas/G-relationship-index.md -> finding | parts/08-atlas-33.md:5067 | Verified
+- files/God research/atlas/H-verification-register.md -> finding | parts/08-atlas-33.md:5138 | Verified
+- files/God research/atlas/I-coverage-register.md -> report | parts/08-atlas-33.md:5275 | Verified
+- files/God research/atlas/README.md -> report | parts/08-atlas-33.md:1 | Verified
+- files/God research/atlas/catalogs/01a-languages-build.md -> tool | parts/08-atlas-33.md:5335 | Partially
+- files/God research/atlas/catalogs/01b-frontend.md -> finding | parts/08-atlas-33.md:8551 | Partially
+- files/God research/atlas/catalogs/01c-backend-data-platforms.md -> finding | parts/08-atlas-33.md:12137 | Partially
+- files/God research/atlas/catalogs/02a-design.md -> finding | parts/08-atlas-33.md:14025 | Partially
+- files/God research/atlas/catalogs/02b-design-styles.md -> style | parts/08-atlas-33.md:16453 | Partially
+- files/God research/atlas/catalogs/03a-skills.md -> skill | parts/08-atlas-33.md:17047 | Verified
+- files/God research/atlas/catalogs/03b-agents.md -> agent | 08-atlas-33.md | Partially
+- files/God research/atlas/catalogs/04-mcp.md -> mcp | parts/08-atlas-33.md:18697 | Verified
+- files/God research/atlas/catalogs/05a-orchestration.md -> harness | parts/08-atlas-33.md:21544 | Partially
+- files/God research/atlas/catalogs/05b-context.md -> tool | parts/08-atlas-33.md:22945 | Partially
+- files/God research/atlas/catalogs/06a-data-acquisition.md -> tool | parts/08-atlas-33.md:24326 | Verified
+- files/God research/atlas/catalogs/06b-quality.md -> report | parts/08-atlas-33.md:26649 | Unverified
+- files/God research/atlas/catalogs/06c-operations.md -> tool | parts/08-atlas-33.md:29429 | Verified
+- files/God research/atlas/index/master-index.md -> finding | parts/08-atlas-33.md:32865 | Verified
+- files/God research/atlas/index/phase0-inventory.md -> finding | parts/08-atlas-33.md:34299 | Verified
+- files/God research/atlas/registers/coverage.md -> report | parts/08-atlas-33.md:31866 | Verified
+- files/God research/atlas/registers/discrepancies.md -> finding | parts/08-atlas-33.md:31904 | Verified
+- files/God research/atlas/registers/named-watchlist.md -> watchlist | parts/08-atlas-33.md:31988 | Verified
+- files/God research/atlas/registers/prompt-archives.md -> archive | parts/08-atlas-33.md:32424 | Verified
+- files/God research/diff report.txt -> report | parts/11-omniscient-2-new.md:1 | Verified
+- files/God research/the_omniscient_resource_atlas.md -> report | parts/11-omniscient-2-new.md:1236 | Verified
+- files/builders-playbook/01-hackathon-win-system.md -> practice | parts/17-bp-evidence-playbook.md:65 | Unverified
+- files/builders-playbook/02-project-execution-plan.md -> workflow | parts/17-bp-evidence-playbook.md:185 | Unverified
+- files/builders-playbook/03-checklists.md -> template | parts/17-bp-evidence-playbook.md:324 | Unverified
+- files/builders-playbook/README.md -> report | parts/17-bp-evidence-playbook.md:1 | Unverified
+- files/builders-playbook/product_engineering/appendices/A-expansion-companies.md -> company | parts/17-bp-evidence-playbook.md:4177 | Unverified
+- files/builders-playbook/product_engineering/appendices/B-expansion-tools.md -> tool | parts/17-bp-evidence-playbook.md:4285 | Unverified
+- files/builders-playbook/product_engineering/appendices/C-expansion-practices.md -> practice | parts/17-bp-evidence-playbook.md:4397 | Unverified
+- files/builders-playbook/product_engineering/appendices/D-forensics-digest.md -> forensic | parts/17-bp-evidence-playbook.md:4454 | Unverified
+- files/builders-playbook/product_engineering/appendices/E-tool-intelligence-register.md -> tool | parts/17-bp-evidence-playbook.md:4523 | Unverified
+- files/builders-playbook/product_engineering/evidence/coverage-matrix.md -> evidence | parts/17-bp-evidence-playbook.md:927 | Unverified
+- files/builders-playbook/product_engineering/evidence/final-research-audit.md -> report | parts/17-bp-evidence-playbook.md:1179 | Unverified
+- files/builders-playbook/product_engineering/evidence/merged-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:1271 | Unverified
+- files/builders-playbook/product_engineering/evidence/source-directory.md -> evidence | parts/17-bp-evidence-playbook.md:2900 | Unverified
+- files/builders-playbook/product_engineering/evidence/unresolved-questions.md -> finding | parts/17-bp-evidence-playbook.md:4060 | Unresolved
+- files/builders-playbook/product_engineering/report/01-executive-findings.md -> finding | parts/14-bp-report.md:69 | Verified
+- files/builders-playbook/product_engineering/report/02-three-ai-domains.md -> discipline | parts/14-bp-report.md:164 | Verified
+- files/builders-playbook/product_engineering/report/03-product-lifecycle.md -> practice | parts/14-bp-report.md:300 | Verified
+- files/builders-playbook/product_engineering/report/04-company-case-studies.md -> case | parts/14-bp-report.md:507 | Verified
+- files/builders-playbook/product_engineering/report/05-ai-agent-architecture.md -> agent | parts/14-bp-report.md:629 | Verified
+- files/builders-playbook/product_engineering/report/06-automation-stack-workflows.md -> workflow | parts/14-bp-report.md:760 | Verified
+- files/builders-playbook/product_engineering/report/07-authenticity-anti-slop.md -> style | parts/14-bp-report.md:867 | Verified
+- files/builders-playbook/product_engineering/report/08-functional-completeness.md -> practice | parts/14-bp-report.md:1008 | Verified
+- files/builders-playbook/product_engineering/report/09-accessibility-performance-ux.md -> discipline | parts/14-bp-report.md:1122 | Verified
+- files/builders-playbook/product_engineering/report/10-security-privacy-governance.md -> rule | parts/14-bp-report.md:1258 | Verified
+- files/builders-playbook/product_engineering/report/11-testing-quality-deployment-ops.md -> practice | parts/14-bp-report.md:1373 | Verified
+- files/builders-playbook/product_engineering/report/12-business-viability.md -> practice | parts/14-bp-report.md:1514 | Verified
+- files/builders-playbook/product_engineering/report/13-bottleneck-analysis.md -> finding | parts/14-bp-report.md:1646 | Verified
+- files/builders-playbook/product_engineering/report/14-rules-anti-patterns.md -> rule | parts/14-bp-report.md:1793 | Verified
+- files/builders-playbook/product_engineering/report/15-reference-architecture.md -> harness | parts/14-bp-report.md:1994 | Verified
+- files/builders-playbook/product_engineering/report/16-implementation-roadmap.md -> workflow | parts/14-bp-report.md:2208 | Partially
+- files/builders-playbook/product_engineering/report/17-checklists-templates.md -> template | parts/14-bp-report.md:2369 | Verified
+- files/builders-playbook/product_engineering/report/18-evidence-register.md -> evidence | parts/14-bp-report.md:2641 | Verified
+- files/builders-playbook/product_engineering/report/19-missing-topics.md -> finding | parts/14-bp-report.md:2783 | Partially
+- files/builders-playbook/product_engineering/report/20-compulsory-disciplines.md -> discipline | parts/14-bp-report.md:2969 | Verified
+- files/builders-playbook/product_engineering/report/README.md -> report | parts/14-bp-report.md:1 | Verified
+- files/builders-playbook/product_engineering/research/authenticity/01-authenticity-principles.md -> discipline | parts/15-bp-core-research.md:9035 | Verified
+- files/builders-playbook/product_engineering/research/authenticity/02-visual-identity.md -> style | parts/15-bp-core-research.md:9132 | Verified
+- files/builders-playbook/product_engineering/research/authenticity/03-anti-pattern-catalogue.md -> rule | parts/15-bp-core-research.md:9256 | Verified
+- files/builders-playbook/product_engineering/research/authenticity/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:9369 | Verified
+- files/builders-playbook/product_engineering/research/automation/01-automation-stack.md -> practice | parts/15-bp-core-research.md:5976 | Verified
+- files/builders-playbook/product_engineering/research/automation/02-workflows.md -> workflow | parts/15-bp-core-research.md:6233 | Verified
+- files/builders-playbook/product_engineering/research/automation/03-evidence-register.md -> evidence | parts/15-bp-core-research.md:6501 | Verified
+- files/builders-playbook/product_engineering/research/build-ship/01-implementation-quality.md -> practice | parts/15-bp-core-research.md:6642 | Verified
+- files/builders-playbook/product_engineering/research/build-ship/02-testing-deployment.md -> practice | parts/15-bp-core-research.md:6805 | Verified
+- files/builders-playbook/product_engineering/research/build-ship/03-production-ops.md -> practice | parts/15-bp-core-research.md:6939 | Verified
+- files/builders-playbook/product_engineering/research/build-ship/04-adoption-viability.md -> practice | parts/15-bp-core-research.md:7066 | Verified
+- files/builders-playbook/product_engineering/research/build-ship/05-evidence-register.md -> evidence | parts/15-bp-core-research.md:7184 | Verified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/01-google.md -> case | parts/16-bp-expansion-cases.md:6948 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/02-microsoft.md -> case | parts/16-bp-expansion-cases.md:7045 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/03-meta.md -> case | parts/16-bp-expansion-cases.md:7137 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/04-amazon.md -> case | parts/16-bp-expansion-cases.md:7227 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/05-nvidia.md -> case | parts/16-bp-expansion-cases.md:7320 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/06-cross-company-lessons.md -> finding | parts/16-bp-expansion-cases.md:7411 | Unverified
+- files/builders-playbook/product_engineering/research/cases-hyperscale/07-evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:7479 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/01-openai.md -> case | parts/16-bp-expansion-cases.md:7596 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/02-anthropic.md -> case | parts/16-bp-expansion-cases.md:7678 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/03-github.md -> case | parts/16-bp-expansion-cases.md:7818 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/04-stripe.md -> case | parts/16-bp-expansion-cases.md:7888 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/05-shopify.md -> case | parts/16-bp-expansion-cases.md:7954 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/06-uber.md -> case | parts/16-bp-expansion-cases.md:8013 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/07-netflix.md -> case | parts/16-bp-expansion-cases.md:8076 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/08-spotify.md -> case | parts/16-bp-expansion-cases.md:8136 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/09-airbnb.md -> case | parts/16-bp-expansion-cases.md:8196 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/10-cursor.md -> case | parts/16-bp-expansion-cases.md:8266 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/11-replit.md -> case | parts/16-bp-expansion-cases.md:8327 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/12-tool-intelligence.md -> tool | parts/16-bp-expansion-cases.md:8595 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/13-cross-company-lessons.md -> finding | parts/16-bp-expansion-cases.md:8649 | Unverified
+- files/builders-playbook/product_engineering/research/cases-product/14-evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:8649 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-ai-act/01-ai-act-engineering.md -> discipline | parts/17-bp-evidence-playbook.md:8803 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-ai-act/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:8980 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-api-product/01-api-product.md -> discipline | parts/17-bp-evidence-playbook.md:9035 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-api-product/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:9222 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-billing/01-billing-engineering.md -> discipline | parts/17-bp-evidence-playbook.md:9279 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-billing/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:9444 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-blindspots/01-blindspots.md -> discipline | parts/17-bp-evidence-playbook.md:9578 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-blindspots/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:9770 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-compliance/01-compliance-engineering.md -> discipline | parts/17-bp-evidence-playbook.md:9804 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-compliance/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:10049 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-finops/01-finops.md -> discipline | parts/17-bp-evidence-playbook.md:10105 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-finops/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:10637 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-mobile-release/01-mobile-release.md -> discipline | parts/17-bp-evidence-playbook.md:11108 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-mobile-release/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:11329 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-notifications/01-notifications.md -> discipline | parts/17-bp-evidence-playbook.md:11374 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-notifications/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:11610 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-trust-safety/01-trust-safety.md -> discipline | parts/17-bp-evidence-playbook.md:11729 | Unverified
+- files/builders-playbook/product_engineering/research/discipline-trust-safety/02-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:11938 | Unverified
+- files/builders-playbook/product_engineering/research/discovery/01-problem-discovery.md -> practice | parts/15-bp-core-research.md:1 | Verified
+- files/builders-playbook/product_engineering/research/discovery/02-ideation-prioritisation.md -> practice | parts/15-bp-core-research.md:242 | Verified
+- files/builders-playbook/product_engineering/research/discovery/03-validation.md -> practice | parts/15-bp-core-research.md:450 | Verified
+- files/builders-playbook/product_engineering/research/discovery/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:615 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/01-research-planning.md -> practice | parts/15-bp-core-research.md:705 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/02-requirements-specifications.md -> practice | parts/15-bp-core-research.md:779 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/03-ux-research-design.md -> practice | parts/15-bp-core-research.md:857 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/04-prototyping-frontend.md -> finding | parts/15-bp-core-research.md:930 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/05-codebase-exploration-implementation.md -> harness | parts/15-bp-core-research.md:1001 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/06-testing-debugging-review.md -> finding | parts/15-bp-core-research.md:1096 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/07-security-quality-assurance.md -> finding | parts/15-bp-core-research.md:1176 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/08-cicd-deployment.md -> workflow | parts/15-bp-core-research.md:1247 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/09-monitoring-incident-response.md -> practice | parts/15-bp-core-research.md:1317 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/10-documentation-maintenance.md -> practice | parts/15-bp-core-research.md:1394 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/11-domain-boundaries.md -> rule | parts/15-bp-core-research.md:1462 | Verified
+- files/builders-playbook/product_engineering/research/domain-a/12-evidence-register.md -> evidence | parts/15-bp-core-research.md:1512 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/01-llm-features.md -> practice | parts/15-bp-core-research.md:1638 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/02-rag.md -> practice | parts/15-bp-core-research.md:1718 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/03-ai-assistants.md -> case | parts/15-bp-core-research.md:1794 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/04-recommendations.md -> practice | parts/15-bp-core-research.md:1887 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/05-ai-search-extraction.md -> practice | parts/15-bp-core-research.md:1965 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/06-multimodal.md -> practice | parts/15-bp-core-research.md:2041 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/07-tool-using-agents.md -> harness | parts/15-bp-core-research.md:2135 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/08-evals.md -> gate | parts/15-bp-core-research.md:2234 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/09-cost-latency-reliability.md -> practice | parts/15-bp-core-research.md:2317 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/10-security-ops.md -> practice | parts/15-bp-core-research.md:2416 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/11-domain-boundaries.md -> rule | parts/15-bp-core-research.md:2539 | Verified
+- files/builders-playbook/product_engineering/research/domain-b/12-evidence-register.md -> evidence | parts/15-bp-core-research.md:2620 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/01-customer-support.md -> practice | parts/15-bp-core-research.md:3236 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/02-research-knowledge-management.md -> practice | parts/15-bp-core-research.md:3340 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/03-internal-operations.md -> practice | parts/15-bp-core-research.md:3429 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/04-sales-customer-success.md -> practice | parts/15-bp-core-research.md:3518 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/05-analytics-reporting.md -> practice | parts/15-bp-core-research.md:3611 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/06-administrative-processes.md -> practice | parts/15-bp-core-research.md:3698 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/07-engineering-coordination.md -> practice | parts/15-bp-core-research.md:3791 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/08-business-workflows.md -> practice | parts/15-bp-core-research.md:3879 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/09-domain-boundaries.md -> rule | parts/15-bp-core-research.md:3965 | Verified
+- files/builders-playbook/product_engineering/research/domain-c/10-evidence-register.md -> evidence | parts/15-bp-core-research.md:4024 | Verified
+- files/builders-playbook/product_engineering/research/economics/01-delivery-economics.md -> finding | parts/15-bp-core-research.md:7297 | Verified
+- files/builders-playbook/product_engineering/research/economics/02-bottleneck-analysis.md -> finding | parts/15-bp-core-research.md:7737 | Verified
+- files/builders-playbook/product_engineering/research/economics/03-productivity-evidence-review.md -> finding | parts/15-bp-core-research.md:7916 | Verified
+- files/builders-playbook/product_engineering/research/economics/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:8322 | Verified
+- files/builders-playbook/product_engineering/research/expansion-companies/00-index.md -> case | parts/16-bp-expansion-cases.md:1 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/01-cloudflare.md -> case | parts/16-bp-expansion-cases.md:57 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/02-fastly.md -> case | parts/16-bp-expansion-cases.md:128 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/03-figma.md -> case | parts/16-bp-expansion-cases.md:183 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/04-notion.md -> case | parts/16-bp-expansion-cases.md:239 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/05-discord.md -> case | parts/16-bp-expansion-cases.md:294 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/06-linear.md -> case | parts/16-bp-expansion-cases.md:353 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/07-tailscale.md -> case | parts/16-bp-expansion-cases.md:405 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/08-sourcegraph.md -> case | parts/16-bp-expansion-cases.md:453 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/09-gitlab.md -> case | parts/16-bp-expansion-cases.md:497 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/10-etsy.md -> case | parts/16-bp-expansion-cases.md:548 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/11-basecamp.md -> case | parts/16-bp-expansion-cases.md:595 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/12-jane-street.md -> case | parts/16-bp-expansion-cases.md:651 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/13-palantir.md -> case | parts/16-bp-expansion-cases.md:698 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/14-spacex.md -> case | parts/16-bp-expansion-cases.md:751 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/15-apple.md -> case | parts/16-bp-expansion-cases.md:808 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/16-knight-capital.md -> case | parts/16-bp-expansion-cases.md:855 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/17-netscape-mozilla.md -> case | parts/16-bp-expansion-cases.md:900 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/18-healthcare-gov.md -> case | parts/16-bp-expansion-cases.md:946 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/19-digg-v4.md -> case | parts/16-bp-expansion-cases.md:991 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/20-google-wave.md -> case | parts/16-bp-expansion-cases.md:1035 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/21-windows-vista.md -> case | parts/16-bp-expansion-cases.md:1080 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/22-firefox-os.md -> case | parts/16-bp-expansion-cases.md:1124 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/23-valve.md -> case | parts/16-bp-expansion-cases.md:1167 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/24-riot-games.md -> case | parts/16-bp-expansion-cases.md:1219 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/25-ccp-games.md -> case | parts/16-bp-expansion-cases.md:1273 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/26-pinboard.md -> case | parts/16-bp-expansion-cases.md:1319 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/27-tailwind-labs.md -> case | parts/16-bp-expansion-cases.md:1362 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/28-tesla.md -> case | parts/16-bp-expansion-cases.md:1410 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/29-framework.md -> case | parts/16-bp-expansion-cases.md:1459 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/30-ibm-carbon.md -> case | parts/16-bp-expansion-cases.md:1510 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/31-atlassian.md -> case | parts/16-bp-expansion-cases.md:1558 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/32-adobe-spectrum.md -> case | parts/16-bp-expansion-cases.md:1607 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/33-salesforce-lightning.md -> case | parts/16-bp-expansion-cases.md:1656 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/34-vercel.md -> case | parts/16-bp-expansion-cases.md:1700 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/35-datadog.md -> case | parts/16-bp-expansion-cases.md:1749 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/36-slack.md -> case | parts/16-bp-expansion-cases.md:1799 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/37-lean-outliers.md -> case | parts/16-bp-expansion-cases.md:1846 | Historical
+- files/builders-playbook/product_engineering/research/expansion-companies/evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:1899 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/00-index.md -> practice | parts/16-bp-expansion-cases.md:4462 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/01-contrarian-methodologies.md -> practice | parts/16-bp-expansion-cases.md:4553 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/02-abandoned-approaches.md -> practice | parts/16-bp-expansion-cases.md:4764 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/03-unwritten-rules.md -> practice | parts/16-bp-expansion-cases.md:4920 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/04-extreme-practices.md -> practice | parts/16-bp-expansion-cases.md:5023 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/05-indie-bootstrapper-wisdom.md -> practice | parts/16-bp-expansion-cases.md:5138 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/06-ai-era-fringe.md -> practice | parts/16-bp-expansion-cases.md:5226 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/07-craft-culture.md -> practice | parts/16-bp-expansion-cases.md:5338 | Historical
+- files/builders-playbook/product_engineering/research/expansion-practices/evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:5402 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/00-index.md -> tool | parts/16-bp-expansion-cases.md:1968 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/01-coding-agents.md -> tool | parts/16-bp-expansion-cases.md:2042 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/02-agent-frameworks.md -> tool | parts/16-bp-expansion-cases.md:2218 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/03-testing.md -> tool | parts/16-bp-expansion-cases.md:2391 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/04-feature-flags-experimentation.md -> tool | parts/16-bp-expansion-cases.md:2516 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/05-cicd-gitops.md -> tool | parts/16-bp-expansion-cases.md:2651 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/06-observability.md -> tool | parts/16-bp-expansion-cases.md:2794 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/07-incident-management.md -> tool | parts/16-bp-expansion-cases.md:2921 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/08-design-prototyping.md -> tool | parts/16-bp-expansion-cases.md:3032 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/09-documentation.md -> tool | parts/16-bp-expansion-cases.md:3201 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/10-analytics.md -> tool | parts/16-bp-expansion-cases.md:3316 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/11-ai-eval-harnesses.md -> tool | parts/16-bp-expansion-cases.md:3420 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/12-workflow-orchestration.md -> tool | parts/16-bp-expansion-cases.md:3565 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/13-secrets-management.md -> tool | parts/16-bp-expansion-cases.md:3679 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/14-discovery-research.md -> tool | parts/16-bp-expansion-cases.md:3778 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/15-project-management.md -> tool | parts/16-bp-expansion-cases.md:3859 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/16-databases-caching.md -> tool | parts/16-bp-expansion-cases.md:3963 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/17-paas-deploy.md -> tool | parts/16-bp-expansion-cases.md:4118 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/18-game-creative-runtimes.md -> tool | parts/16-bp-expansion-cases.md:4269 | Historical
+- files/builders-playbook/product_engineering/research/expansion-tools/evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:4332 | Historical
+- files/builders-playbook/product_engineering/research/forensics/00-index.md -> forensic | parts/16-bp-expansion-cases.md:5510 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/01-google.md -> forensic | parts/16-bp-expansion-cases.md:5558 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/02-microsoft.md -> forensic | parts/16-bp-expansion-cases.md:5658 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/03-meta.md -> forensic | parts/16-bp-expansion-cases.md:5744 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/04-amazon.md -> forensic | parts/16-bp-expansion-cases.md:5825 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/05-nvidia.md -> forensic | parts/16-bp-expansion-cases.md:5910 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/06-openai.md -> forensic | parts/16-bp-expansion-cases.md:5982 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/07-anthropic.md -> forensic | parts/16-bp-expansion-cases.md:6059 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/08-github.md -> forensic | parts/16-bp-expansion-cases.md:6131 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/09-stripe.md -> forensic | parts/16-bp-expansion-cases.md:6208 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/10-shopify.md -> forensic | parts/16-bp-expansion-cases.md:6276 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/11-uber.md -> forensic | parts/16-bp-expansion-cases.md:6343 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/12-netflix.md -> forensic | parts/16-bp-expansion-cases.md:6411 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/13-spotify.md -> forensic | parts/16-bp-expansion-cases.md:6470 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/14-airbnb.md -> forensic | parts/16-bp-expansion-cases.md:6535 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/15-cursor.md -> forensic | parts/16-bp-expansion-cases.md:6599 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/16-replit.md -> forensic | parts/16-bp-expansion-cases.md:6677 | Unverified
+- files/builders-playbook/product_engineering/research/forensics/evidence-register.md -> evidence | parts/16-bp-expansion-cases.md:6745 | Unverified
+- files/builders-playbook/product_engineering/research/gaps/00-index.md -> report | parts/15-bp-core-research.md:8686 | Verified
+- files/builders-playbook/product_engineering/research/gaps/01-missing-topics.md -> finding | parts/15-bp-core-research.md:8736 | Partially
+- files/builders-playbook/product_engineering/research/gaps/02-evidence-register.md -> evidence | parts/15-bp-core-research.md:8906 | Verified
+- files/builders-playbook/product_engineering/research/quality/01-functional-audit.md -> practice | parts/15-bp-core-research.md:5340 | Verified
+- files/builders-playbook/product_engineering/research/quality/02-accessibility.md -> practice | parts/15-bp-core-research.md:5495 | Verified
+- files/builders-playbook/product_engineering/research/quality/03-quality-gates.md -> gate | parts/15-bp-core-research.md:5646 | Verified
+- files/builders-playbook/product_engineering/research/quality/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:5847 | Verified
+- files/builders-playbook/product_engineering/research/rules/01-engineering-rules.md -> rule | parts/17-bp-evidence-playbook.md:6268 | Unverified
+- files/builders-playbook/product_engineering/research/rules/02-anti-patterns.md -> rule | parts/17-bp-evidence-playbook.md:6759 | Unverified
+- files/builders-playbook/product_engineering/research/rules/03-small-team-os.md -> os | parts/17-bp-evidence-playbook.md:6968 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/00-index.md -> template | parts/17-bp-evidence-playbook.md:7627 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/01-problem-validation.md -> template | parts/17-bp-evidence-playbook.md:7671 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/02-idea-evaluation.md -> template | parts/17-bp-evidence-playbook.md:7727 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/03-prd.md -> template | parts/17-bp-evidence-playbook.md:7785 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/04-technical-design-document.md -> template | parts/17-bp-evidence-playbook.md:7855 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/05-architecture-decision-record.md -> template | parts/17-bp-evidence-playbook.md:7927 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/06-design-system-definition.md -> template | parts/17-bp-evidence-playbook.md:7973 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/07-prototype-acceptance.md -> template | parts/17-bp-evidence-playbook.md:8040 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/08-development-task-definition.md -> template | parts/17-bp-evidence-playbook.md:8091 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/09-agent-instructions.md -> template | parts/17-bp-evidence-playbook.md:8145 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/10-test-plan.md -> template | parts/17-bp-evidence-playbook.md:8210 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/11-code-review.md -> template | parts/17-bp-evidence-playbook.md:8270 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/12-ux-visual-qa.md -> template | parts/17-bp-evidence-playbook.md:8328 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/13-security-verification.md -> template | parts/17-bp-evidence-playbook.md:8392 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/14-release-readiness.md -> template | parts/17-bp-evidence-playbook.md:8465 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/15-incident-response.md -> template | parts/17-bp-evidence-playbook.md:8528 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/16-post-launch-evaluation.md -> template | parts/17-bp-evidence-playbook.md:8604 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/17-product-authenticity-polish.md -> template | parts/17-bp-evidence-playbook.md:8658 | Unverified
+- files/builders-playbook/product_engineering/research/rules/04-templates/18-launch-readiness.md -> template | parts/17-bp-evidence-playbook.md:8736 | Unverified
+- files/builders-playbook/product_engineering/research/rules/05-evidence-register.md -> evidence | parts/17-bp-evidence-playbook.md:7132 | Unverified
+- files/builders-playbook/product_engineering/research/security/01-auth-account.md -> practice | parts/15-bp-core-research.md:9442 | Verified
+- files/builders-playbook/product_engineering/research/security/02-app-api.md -> practice | parts/15-bp-core-research.md:9546 | Verified
+- files/builders-playbook/product_engineering/research/security/03-database-secrets.md -> practice | parts/15-bp-core-research.md:9610 | Verified
+- files/builders-playbook/product_engineering/research/security/04-ai-agent-security.md -> practice | parts/15-bp-core-research.md:9671 | Verified
+- files/builders-playbook/product_engineering/research/security/05-privacy-legal.md -> rule | parts/15-bp-core-research.md:9743 | Verified
+- files/builders-playbook/product_engineering/research/security/06-classification-index.md -> rule | parts/15-bp-core-research.md:9814 | Verified
+- files/builders-playbook/product_engineering/research/security/07-evidence-register.md -> evidence | parts/15-bp-core-research.md:10171 | Verified
+- files/builders-playbook/product_engineering/research/spec-arch/01-requirements-specs.md -> practice | parts/15-bp-core-research.md:4120 | Verified
+- files/builders-playbook/product_engineering/research/spec-arch/02-architecture-decisions.md -> practice | parts/15-bp-core-research.md:4319 | Verified
+- files/builders-playbook/product_engineering/research/spec-arch/03-repo-foundations.md -> practice | parts/15-bp-core-research.md:4501 | Verified
+- files/builders-playbook/product_engineering/research/spec-arch/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:4615 | Verified
+- files/builders-playbook/product_engineering/research/ux-states/01-polish-details.md -> practice | parts/15-bp-core-research.md:4705 | Verified
+- files/builders-playbook/product_engineering/research/ux-states/02-ux-state-matrix.md -> practice | parts/15-bp-core-research.md:4951 | Verified
+- files/builders-playbook/product_engineering/research/ux-states/03-demo-authenticity.md -> practice | parts/15-bp-core-research.md:5068 | Verified
+- files/builders-playbook/product_engineering/research/ux-states/04-evidence-register.md -> evidence | parts/15-bp-core-research.md:5151 | Verified
+- files/builders-playbook/research/hackathon-intel-evidence.md -> evidence | parts/17-bp-evidence-playbook.md:646 | Unverified
+- files/builders-playbook/research/hackathon-intel-notes.md -> report | parts/17-bp-evidence-playbook.md:396 | Unverified
+- files/builders-playbook/templates/battle-plan-48h.md -> template | parts/17-bp-evidence-playbook.md:689 | Unverified
+- files/builders-playbook/templates/build-log.md -> template | parts/17-bp-evidence-playbook.md:873 | Unverified
+- files/builders-playbook/templates/demo-script.md -> template | parts/17-bp-evidence-playbook.md:819 | Unverified
+- files/builders-playbook/templates/idea-evaluator.md -> template | parts/17-bp-evidence-playbook.md:758 | Unverified
+- files/builders-playbook/templates/project-retrospective.md -> template | parts/17-bp-evidence-playbook.md:893 | Unverified
+- files/deve/.cursorrules -> config | parts/13-deve-solo.md:38032 | Verified
+- files/deve/.env.template -> config | parts/13-deve-solo.md:38045 | Verified
+- files/deve/.gitignore -> config | parts/13-deve-solo.md:38059 | Verified
+- files/deve/.harness/README.md -> harness | parts/13-deve-solo.md:38064 | Verified
+- files/deve/.harness/config/harness.yaml -> harness | parts/13-deve-solo.md:38092 | Verified
+- files/deve/.harness/hooks/hooks.json -> hook | parts/13-deve-solo.md:38143 | Verified
+- files/deve/.harness/hooks/pre_tool_guard.py -> hook | parts/13-deve-solo.md:38199 | Verified
+- files/deve/.harness/mcp/tools.yaml -> mcp | parts/13-deve-solo.md:38321 | Verified
+- files/deve/.harness/permissions/check.py -> gate | parts/13-deve-solo.md:38421 | Verified
+- files/deve/.harness/permissions/policies.cedar -> rule | parts/13-deve-solo.md:38482 | Verified
+- files/deve/.harness/permissions/presets.json -> config | parts/13-deve-solo.md:38565 | Verified
+- files/deve/.harness/sandbox/gate.sh -> gate | parts/13-deve-solo.md:38604 | Verified
+- files/deve/.harness/skills/alternatives-generator/SKILL.md -> skill | parts/13-deve-solo.md:38664 | Verified
+- files/deve/.harness/skills/failure-mode-analyzer/SKILL.md -> skill | parts/13-deve-solo.md:38708 | Verified
+- files/deve/.harness/skills/fcar-reviewer/SKILL.md -> skill | parts/13-deve-solo.md:38746 | Verified
+- files/deve/.harness/skills/launch-checklist-runner/SKILL.md -> skill | parts/13-deve-solo.md:38785 | Verified
+- files/deve/.harness/skills/postmortem-opener/SKILL.md -> skill | parts/13-deve-solo.md:38837 | Verified
+- files/deve/.harness/skills/scope-gate/SKILL.md -> skill | parts/13-deve-solo.md:38868 | Verified
+- files/deve/.harness/skills/stakes-classifier/SKILL.md -> skill | parts/13-deve-solo.md:38904 | Verified
+- files/deve/.harness/skills/unknown-first-sorter/SKILL.md -> skill | parts/13-deve-solo.md:38947 | Verified
+- files/deve/.harness/skills/working-backwards/SKILL.md -> skill | parts/13-deve-solo.md:38984 | Verified
+- files/deve/.harness/telemetry/guard.log -> archive | parts/13-deve-solo.md:39025 | Verified
+- files/deve/.harness/telemetry/litellm-config.yaml -> config | parts/13-deve-solo.md:39037 | Partially
+- files/deve/.harness/workflows/alternatives-generator.yaml -> workflow | parts/13-deve-solo.md:39074 | Verified
+- files/deve/.harness/workflows/deploy-monitor.yaml -> workflow | parts/13-deve-solo.md:39111 | Verified
+- files/deve/.harness/workflows/failure-mode-analyzer.yaml -> workflow | parts/13-deve-solo.md:39165 | Verified
+- files/deve/.harness/workflows/fcar-review.yaml -> workflow | parts/13-deve-solo.md:39200 | Verified
+- files/deve/.harness/workflows/launch-checklist.yaml -> workflow | parts/13-deve-solo.md:39249 | Verified
+- files/deve/.harness/workflows/postmortem.yaml -> workflow | parts/13-deve-solo.md:39303 | Verified
+- files/deve/.harness/workflows/scope-gate.yaml -> workflow | parts/13-deve-solo.md:39343 | Verified
+- files/deve/.harness/workflows/stakes-classifier.yaml -> workflow | parts/13-deve-solo.md:39389 | Verified
+- files/deve/.harness/workflows/unknown-first-sorter.yaml -> workflow | parts/13-deve-solo.md:39430 | Verified
+- files/deve/.harness/workflows/working-backwards.yaml -> workflow | parts/13-deve-solo.md:39468 | Verified
+- files/deve/.pytest_cache/.gitignore -> archive | parts/13-deve-solo.md:39507 | Verified
+- files/deve/.pytest_cache/CACHEDIR.TAG -> archive | parts/13-deve-solo.md:39510 | Verified
+- files/deve/.pytest_cache/README.md -> archive | parts/13-deve-solo.md:39515 | Verified
+- files/deve/.pytest_cache/v/cache/lastfailed -> archive | parts/13-deve-solo.md:39524 | Verified
+- files/deve/.pytest_cache/v/cache/nodeids -> archive | parts/13-deve-solo.md:39526 | Verified
+- files/deve/AGENTS.md -> agent | parts/13-deve-solo.md:39575 | Verified
+- files/deve/CLAUDE.md -> harness | parts/13-deve-solo.md:39624 | Verified
+- files/deve/Taskfile.yml -> tool | parts/13-deve-solo.md:39691 | Verified
+- files/deve/lefthook.yml -> hook | parts/13-deve-solo.md:39772 | Verified
+- files/deve/os/README.md -> os | parts/13-deve-solo.md:39790 | Verified
+- files/deve/os/artifacts/build-log-template.md -> template | parts/13-deve-solo.md:39823 | Verified
+- files/deve/os/artifacts/design-note-template.md -> template | parts/13-deve-solo.md:39848 | Verified
+- files/deve/os/artifacts/launch-checklist-template.md -> template | parts/13-deve-solo.md:39890 | Verified
+- files/deve/os/artifacts/pitch-template.md -> template | parts/13-deve-solo.md:39915 | Verified
+- files/deve/os/artifacts/postmortem-template.md -> template | parts/13-deve-solo.md:39944 | Verified
+- files/deve/os/artifacts/prfaq-template.md -> template | parts/13-deve-solo.md:39976 | Verified
+- files/deve/os/decision-architecture.md -> rule | parts/13-deve-solo.md:40007 | Verified
+- files/deve/os/engineering-rules.md -> rule | parts/13-deve-solo.md:40041 | Verified
+- files/deve/os/fcar-rubric.md -> rule | parts/13-deve-solo.md:40084 | Verified
+- files/deve/os/gates.md -> gate | parts/13-deve-solo.md:40126 | Verified
+- files/deve/os/lifecycle.md -> os | parts/13-deve-solo.md:40157 | Verified
+- files/deve/os/quality-security.md -> rule | parts/13-deve-solo.md:40217 | Verified
+- files/deve/os/release-experiments.md -> practice | parts/13-deve-solo.md:40256 | Verified
+- files/deve/os/roles.md -> practice | parts/13-deve-solo.md:40287 | Verified
+- files/deve/scripts/scope-check.py -> gate | parts/13-deve-solo.md:40336 | Verified
+- files/deve/scripts/secret-scan.sh -> gate | parts/13-deve-solo.md:40443 | Verified
+- files/deve/scripts/spend-log.sh -> tool | parts/13-deve-solo.md:40487 | Verified
+- files/deve/scripts/test_pre_tool_guard.py -> tool | parts/13-deve-solo.md:40517 | Verified
+- files/deve/scripts/test_scope_check.py -> tool | parts/13-deve-solo.md:40689 | Verified
+- files/deve/scripts/verify.sh -> gate | parts/13-deve-solo.md:40883 | Verified
+- files/opencode-research/BUILD-PROMPT-FINAL.md -> harness | parts/04-opencode-build-prompts.md:1 | Verified
+- files/opencode-research/BUILD-PROMPT-UNIVERSAL.md -> harness | parts/04-opencode-build-prompts.md:2263 | Verified
+- files/opencode-research/README.md -> finding | parts/01-opencode-research-root.md:1 | Verified
+- files/opencode-research/catalog.md -> finding | parts/02-opencode-catalog-26.md:1 | Verified
+- files/opencode-research/harness-templates/AGENTS.md -> harness | parts/04-opencode-build-prompts.md:4336 | Verified
+- files/opencode-research/harness-templates/README.md -> template | parts/04-opencode-build-prompts.md:4540 | Verified
+- files/opencode-research/harness-templates/claude-progress.md -> template | parts/04-opencode-build-prompts.md:4459 | Verified
+- files/opencode-research/harness-templates/feature_list.json -> template | parts/04-opencode-build-prompts.md:4393 | Verified
+- files/opencode-research/harness-templates/init.sh -> harness | parts/04-opencode-build-prompts.md:4509 | Verified
+- files/opencode-research/research/00-gaps-and-unknowns.md -> finding | parts/03-opencode-research-phases.md:85 | Verified
+- files/opencode-research/research/00-verification.md -> finding | parts/03-opencode-research-phases.md:1 | Verified
+- files/opencode-research/research/01-existing-summary.md -> finding | parts/03-opencode-research-phases.md:153 | Verified
+- files/opencode-research/research/02-ui-ux.md -> finding | parts/03-opencode-research-phases.md:378 | Verified
+- files/opencode-research/research/03-multi-agent-council.md -> finding | parts/03-opencode-research-phases.md:629 | Verified
+- files/opencode-research/research/04-harness-environment.md -> finding | parts/03-opencode-research-phases.md:822 | Verified
+- files/opencode-research/research/05-remaining-resources.md -> finding | parts/03-opencode-research-phases.md:996 | Verified
+- files/opencode-research/research/06-unfound-and-gaps.md -> finding | parts/03-opencode-research-phases.md:1211 | Verified
+- files/opencode-research/research/07-autonomous-agent-architecture.md -> harness | parts/03-opencode-research-phases.md:1272 | Verified
+- files/opencode-research/research/08-astryx-mcp.md -> finding | parts/03-opencode-research-phases.md:1615 | Verified
+- files/opencode-research/research/08-loopy-verification.md -> finding | parts/03-opencode-research-phases.md:1785 | Verified
+- files/opencode-research/research/08-pre-commit-hook.md -> hook | parts/03-opencode-research-phases.md:1961 | Verified
+- files/opencode-research/research/08-testing-qa.md -> tool | parts/03-opencode-research-phases.md:2166 | Verified
+- files/opencode-research/verification.md -> finding | parts/01-opencode-research-root.md:164 | Verified
+- files/solo-levelling/.cursorrules -> rule | parts/13-deve-solo.md:1 | Verified
+- files/solo-levelling/.env.template -> config | parts/13-deve-solo.md:14 | Verified
+- files/solo-levelling/.harness/README.md -> harness | parts/13-deve-solo.md:28 | Verified
+- files/solo-levelling/.harness/config/harness.yaml -> harness | parts/13-deve-solo.md:56 | Verified
+- files/solo-levelling/.harness/hooks/hooks.json -> hook | parts/13-deve-solo.md:109 | Verified
+- files/solo-levelling/.harness/hooks/pre_tool_guard.py -> hook | parts/13-deve-solo.md:156 | Verified
+- files/solo-levelling/.harness/mcp/tools.yaml -> mcp | parts/13-deve-solo.md:246 | Verified
+- files/solo-levelling/.harness/permissions/policies.cedar -> rule | parts/13-deve-solo.md:346 | Verified
+- files/solo-levelling/.harness/permissions/presets.json -> config | parts/13-deve-solo.md:429 | Verified
+- files/solo-levelling/.harness/sandbox/gate.sh -> gate | parts/13-deve-solo.md:468 | Verified
+- files/solo-levelling/.harness/skills/alternatives-generator/SKILL.md -> skill | parts/13-deve-solo.md:512 | Verified
+- files/solo-levelling/.harness/skills/failure-mode-analyzer/SKILL.md -> skill | parts/13-deve-solo.md:556 | Verified
+- files/solo-levelling/.harness/skills/fcar-reviewer/SKILL.md -> skill | parts/13-deve-solo.md:594 | Verified
+- files/solo-levelling/.harness/skills/launch-checklist-runner/SKILL.md -> skill | parts/13-deve-solo.md:633 | Verified
+- files/solo-levelling/.harness/skills/postmortem-opener/SKILL.md -> skill | parts/13-deve-solo.md:685 | Verified
+- files/solo-levelling/.harness/skills/scope-gate/SKILL.md -> skill | parts/13-deve-solo.md:716 | Verified
+- files/solo-levelling/.harness/skills/stakes-classifier/SKILL.md -> skill | parts/13-deve-solo.md:752 | Verified
+- files/solo-levelling/.harness/skills/unknown-first-sorter/SKILL.md -> skill | parts/13-deve-solo.md:795 | Verified
+- files/solo-levelling/.harness/skills/working-backwards/SKILL.md -> skill | parts/13-deve-solo.md:832 | Verified
+- files/solo-levelling/.harness/telemetry/litellm-config.yaml -> config | parts/13-deve-solo.md:873 | Verified
+- files/solo-levelling/.harness/workflows/deploy-monitor.yaml -> workflow | parts/13-deve-solo.md:909 | Verified
+- files/solo-levelling/.harness/workflows/fcar-review.yaml -> workflow | parts/13-deve-solo.md:963 | Verified
+- files/solo-levelling/.harness/workflows/launch-checklist.yaml -> workflow | parts/13-deve-solo.md:1012 | Verified
+- files/solo-levelling/.harness/workflows/postmortem.yaml -> workflow | parts/13-deve-solo.md:1066 | Verified
+- files/solo-levelling/.harness/workflows/scope-gate.yaml -> workflow | parts/13-deve-solo.md:1106 | Verified
+- files/solo-levelling/.harness/workflows/stakes-classifier.yaml -> workflow | parts/13-deve-solo.md:1152 | Verified
+- files/solo-levelling/.harness/workflows/unknown-first-sorter.yaml -> workflow | parts/13-deve-solo.md:1193 | Verified
+- files/solo-levelling/.harness/workflows/working-backwards.yaml -> workflow | parts/13-deve-solo.md:1231 | Verified
+- files/solo-levelling/00-master-framework.md -> discipline | parts/13-deve-solo.md:1270 | Verified
+- files/solo-levelling/01-phases-1-to-5.md -> discipline | parts/13-deve-solo.md:1441 | Verified
+- files/solo-levelling/02-phases-6-to-10.md -> discipline | parts/13-deve-solo.md:1822 | Verified
+- files/solo-levelling/03-phases-11-to-15.md -> discipline | parts/13-deve-solo.md:2185 | Verified
+- files/solo-levelling/AGENTS.md -> agent | parts/13-deve-solo.md:2448 | Verified
+- files/solo-levelling/CLAUDE.md -> rule | parts/13-deve-solo.md:2500 | Verified
+- files/solo-levelling/GOD_PROMPT.md -> harness | parts/13-deve-solo.md:2564 | Verified
+- files/solo-levelling/Taskfile.yml -> config | parts/13-deve-solo.md:4500 | Verified
+- files/solo-levelling/findings/phase-01-findings.md -> finding | parts/13-deve-solo.md:4578 | Verified
+- files/solo-levelling/findings/phase-02-findings.md -> finding | parts/13-deve-solo.md:4692 | Verified
+- files/solo-levelling/findings/phase-03-findings.md -> finding | parts/13-deve-solo.md:5076 | Verified
+- files/solo-levelling/findings/phase-04-findings.md -> finding | parts/13-deve-solo.md:5347 | Verified
+- files/solo-levelling/findings/phase-05-findings.md -> finding | parts/13-deve-solo.md:5567 | Verified
+- files/solo-levelling/findings/phase-06-findings.md -> finding | parts/13-deve-solo.md:5819 | Verified
+- files/solo-levelling/findings/phase-07-findings.md -> finding | parts/13-deve-solo.md:6052 | Verified
+- files/solo-levelling/findings/phase-08-findings.md -> finding | parts/13-deve-solo.md:6255 | Verified
+- files/solo-levelling/findings/phase-09-findings.md -> finding | parts/13-deve-solo.md:6467 | Verified
+- files/solo-levelling/findings/phase-10-findings.md -> finding | parts/13-deve-solo.md:6669 | Verified
+- files/solo-levelling/findings/phase-11-findings.md -> finding | parts/13-deve-solo.md:6903 | Verified
+- files/solo-levelling/findings/phase-12-findings.md -> finding | parts/13-deve-solo.md:7103 | Verified
+- files/solo-levelling/findings/phase-13-findings.md -> finding | parts/13-deve-solo.md:7274 | Verified
+- files/solo-levelling/findings/phase-14-findings.md -> finding | parts/13-deve-solo.md:7561 | Verified
+- files/solo-levelling/findings/phase-15-master-synthesis.md -> finding | parts/13-deve-solo.md:7681 | Verified
+- files/solo-levelling/lefthook.yml -> hook | parts/13-deve-solo.md:8333 | Verified
+- files/solo-levelling/os/README.md -> os | parts/13-deve-solo.md:8349 | Verified
+- files/solo-levelling/os/artifacts/build-log-template.md -> template | parts/13-deve-solo.md:8374 | Verified
+- files/solo-levelling/os/artifacts/design-note-template.md -> template | parts/13-deve-solo.md:8399 | Verified
+- files/solo-levelling/os/artifacts/launch-checklist-template.md -> template | parts/13-deve-solo.md:8441 | Verified
+- files/solo-levelling/os/artifacts/pitch-template.md -> template | parts/13-deve-solo.md:8466 | Verified
+- files/solo-levelling/os/artifacts/postmortem-template.md -> template | parts/13-deve-solo.md:8496 | Verified
+- files/solo-levelling/os/artifacts/prfaq-template.md -> template | parts/13-deve-solo.md:8528 | Verified
+- files/solo-levelling/os/decision-architecture.md -> os | parts/13-deve-solo.md:8559 | Verified
+- files/solo-levelling/os/engineering-rules.md -> rule | parts/13-deve-solo.md:8593 | Verified
+- files/solo-levelling/os/fcar-rubric.md -> gate | parts/13-deve-solo.md:8636 | Verified
+- files/solo-levelling/os/gates.md -> gate | parts/13-deve-solo.md:8683 | Verified
+- files/solo-levelling/os/lifecycle.md -> workflow | parts/13-deve-solo.md:8709 | Verified
+- files/solo-levelling/os/quality-security.md -> gate | parts/13-deve-solo.md:8764 | Verified
+- files/solo-levelling/os/release-experiments.md -> os | parts/13-deve-solo.md:8803 | Verified
+- files/solo-levelling/os/roles.md -> os | parts/13-deve-solo.md:8834 | Verified
+- files/solo-levelling/phase-16-loop-engineering.md -> finding | parts/13-deve-solo.md:8883 | Verified
+- files/solo-levelling/project-tracker.md -> template | parts/13-deve-solo.md:8970 | Verified
+- files/solo-levelling/projects/.gitkeep -> config | parts/13-deve-solo.md:8990 | Verified
+- files/solo-levelling/research-log.md -> report | parts/13-deve-solo.md:8992 | Verified
+- files/solo-levelling/scripts/scope-check.py -> tool | parts/13-deve-solo.md:9020 | Verified
+- files/solo-levelling/scripts/secret-scan.sh -> tool | parts/13-deve-solo.md:9104 | Verified
+- files/solo-levelling/scripts/verify.sh -> tool | parts/13-deve-solo.md:9148 | Verified
+- files/solo-levelling/the harness/.env.template -> template | parts/13-deve-solo.md:9201 | Verified
+- files/solo-levelling/the harness/.gemini/settings.json -> config | parts/13-deve-solo.md:9289 | Verified
+- files/solo-levelling/the harness/.harness/README.md -> harness | parts/13-deve-solo.md:9306 | Verified
+- files/solo-levelling/the harness/.harness/agents/coder.md -> agent | parts/13-deve-solo.md:9341 | Verified
+- files/solo-levelling/the harness/.harness/agents/explorer.md -> agent | parts/13-deve-solo.md:9410 | Verified
+- files/solo-levelling/the harness/.harness/agents/planner.md -> agent | parts/13-deve-solo.md:9479 | Verified
+- files/solo-levelling/the harness/.harness/agents/reviewer.md -> agent | parts/13-deve-solo.md:9551 | Verified
+- files/solo-levelling/the harness/.harness/config/harness.yaml -> config | parts/13-deve-solo.md:9633 | Verified
+- files/solo-levelling/the harness/.harness/hooks/hooks.json -> hook | parts/13-deve-solo.md:9815 | Verified
+- files/solo-levelling/the harness/.harness/hooks/post_tool_linter.py -> hook | parts/13-deve-solo.md:9863 | Verified
+- files/solo-levelling/the harness/.harness/hooks/pre_tool_guard.py -> hook | parts/13-deve-solo.md:9940 | Verified
+- files/solo-levelling/the harness/.harness/mcp/mcp_servers.json -> mcp | parts/13-deve-solo.md:10035 | Verified
+- files/solo-levelling/the harness/.harness/permissions/policies.cedar -> rule | parts/13-deve-solo.md:10104 | Verified
+- files/solo-levelling/the harness/.harness/permissions/presets.json -> config | parts/13-deve-solo.md:10186 | Verified
+- files/solo-levelling/the harness/.harness/sandbox/gate.sh -> gate | parts/13-deve-solo.md:10304 | Verified
+- files/solo-levelling/the harness/.harness/skills/01-repo-surveyor-map/SKILL.md -> skill | parts/13-deve-solo.md:10543 | Verified
+- files/solo-levelling/the harness/.harness/skills/01-repo-surveyor-map/scripts/survey_repo.py -> tool | parts/13-deve-solo.md:10722 | Verified
+- files/solo-levelling/the harness/.harness/skills/02-git-worktree-isolation/SKILL.md -> skill | parts/13-deve-solo.md:10853 | Verified
+- files/solo-levelling/the harness/.harness/skills/02-git-worktree-isolation/scripts/create_worktree.sh -> tool | parts/13-deve-solo.md:10966 | Verified
+- files/solo-levelling/the harness/.harness/skills/03-context-compaction-pruner/SKILL.md -> skill | parts/13-deve-solo.md:11011 | Verified
+- files/solo-levelling/the harness/.harness/skills/07-api-contract-first/SKILL.md -> skill | parts/13-deve-solo.md:11090 | Verified
+- files/solo-levelling/the harness/.harness/skills/08-database-schema-architect/SKILL.md -> skill | parts/13-deve-solo.md:11292 | Verified
+- files/solo-levelling/the harness/.harness/skills/09-docker-sandbox-runner/SKILL.md -> skill | parts/13-deve-solo.md:11449 | Verified
+- files/solo-levelling/the harness/.harness/skills/09-docker-sandbox-runner/scripts/sandbox_run.sh -> tool | parts/13-deve-solo.md:11560 | Verified
+- files/solo-levelling/the harness/.harness/skills/11-litellm-router-admin/SKILL.md -> skill | parts/13-deve-solo.md:11684 | Verified
+- files/solo-levelling/the harness/.harness/skills/21-tdd-red-green-refactor/SKILL.md -> skill | parts/13-deve-solo.md:11860 | Verified
+- files/solo-levelling/the harness/.harness/skills/22-playwright-e2e-matrix/SKILL.md -> skill | parts/13-deve-solo.md:11919 | Verified
+- files/solo-levelling/the harness/.harness/skills/23-pytest-fixture-factory/SKILL.md -> skill | parts/13-deve-solo.md:12149 | Verified
+- files/solo-levelling/the harness/.harness/skills/26-systematic-rca/SKILL.md -> skill | parts/13-deve-solo.md:12348 | Verified
+- files/solo-levelling/the harness/.harness/skills/31-owasp-top10-vuln-scanner/SKILL.md -> skill | parts/13-deve-solo.md:12450 | Verified
+- files/solo-levelling/the harness/.harness/skills/32-secrets-entropy-sanitizer/SKILL.md -> skill | parts/13-deve-solo.md:12602 | Verified
+- files/solo-levelling/the harness/.harness/skills/32-secrets-entropy-sanitizer/scripts/entropy_scan.sh -> tool | parts/13-deve-solo.md:12701 | Verified
+- files/solo-levelling/the harness/.harness/skills/35-cryptography-safe-patterns/SKILL.md -> skill | parts/13-deve-solo.md:12756 | Verified
+- files/solo-levelling/the harness/.harness/skills/36-grill-me-socratic-planner/SKILL.md -> skill | parts/13-deve-solo.md:12961 | Verified
+- files/solo-levelling/the harness/.harness/skills/index.json -> config | parts/13-deve-solo.md:13077 | Verified
+- files/solo-levelling/the harness/.harness/telemetry/langfuse-config.json -> config | parts/13-deve-solo.md:13646 | Verified
+- files/solo-levelling/the harness/.harness/telemetry/litellm-config.yaml -> config | parts/13-deve-solo.md:13663 | Verified
+- files/solo-levelling/the harness/.harness/workflows/blueprints/build-verify.yaml -> workflow | parts/13-deve-solo.md:13711 | Verified
+- files/solo-levelling/the harness/.harness/workflows/blueprints/migration-safeguard.yaml -> workflow | parts/13-deve-solo.md:13773 | Verified
+- files/solo-levelling/the harness/.harness/workflows/blueprints/refactor-safely.yaml -> workflow | parts/13-deve-solo.md:13814 | Verified
+- files/solo-levelling/the harness/.harness/workflows/blueprints/test-and-verify.yaml -> workflow | parts/13-deve-solo.md:13885 | Verified
+- files/solo-levelling/the harness/.harness/workflows/build-verify.yaml -> workflow | parts/13-deve-solo.md:13921 | Verified
+- files/solo-levelling/the harness/.harness/workflows/migration-safeguard.yaml -> workflow | parts/13-deve-solo.md:13983 | Verified
+- files/solo-levelling/the harness/.harness/workflows/refactor-safely.yaml -> workflow | parts/13-deve-solo.md:14024 | Verified
+- files/solo-levelling/the harness/.harness/workflows/test-and-verify.yaml -> workflow | parts/13-deve-solo.md:14095 | Verified
+- files/solo-levelling/the harness/AGENTS.md -> report | parts/13-deve-solo.md:14131 | Verified
+- files/solo-levelling/the harness/CLAUDE.md -> rule | parts/13-deve-solo.md:14241 | Verified
+- files/solo-levelling/the harness/ISSUES.md -> report | parts/13-deve-solo.md:14272 | Verified
+- files/solo-levelling/the harness/SKILLS_VERIFICATION.md -> report | parts/13-deve-solo.md:14318 | Verified
+- files/solo-levelling/the harness/Taskfile.yml -> config | parts/13-deve-solo.md:14498 | Verified
+- files/solo-levelling/the harness/elements/D-1_EXECUTION.md -> discipline | parts/13-deve-solo.md:14578 | Verified
+- files/solo-levelling/the harness/elements/D-2_CONTEXT.md -> discipline | parts/13-deve-solo.md:14741 | Verified
+- files/solo-levelling/the harness/elements/D-3_INTEGRATION.md -> discipline | parts/13-deve-solo.md:14948 | Verified
+- files/solo-levelling/the harness/elements/D-4_SAFETY.md -> discipline | parts/13-deve-solo.md:15177 | Verified
+- files/solo-levelling/the harness/elements/D-5_DX_META.md -> discipline | parts/13-deve-solo.md:15362 | Verified
+- files/solo-levelling/the harness/elements/D-6_A_B_TIER.md -> discipline | parts/13-deve-solo.md:15503 | Verified
+- files/solo-levelling/the harness/lefthook.yml -> config | parts/13-deve-solo.md:15624 | Verified
+- files/solo-levelling/the harness/phase-0/.gitkeep -> config | parts/13-deve-solo.md:15665 | Verified
+- files/solo-levelling/the harness/phase-0/ARCHETYPES_AND_CRITERIA.md -> finding | parts/13-deve-solo.md:15666 | Verified
+- files/solo-levelling/the harness/phase-0/R-A_BROAD_MAPPER.md -> finding | parts/13-deve-solo.md:15877 | Verified
+- files/solo-levelling/the harness/phase-0/R-B_CHALLENGER.md -> finding | parts/13-deve-solo.md:16362 | Verified
+- files/solo-levelling/the harness/phase-0/STATUS.md -> finding | parts/13-deve-solo.md:16546 | Verified
+- files/solo-levelling/the harness/phase-0/V-C_ADVERSARIAL.md -> finding | parts/13-deve-solo.md:16590 | Verified
+- files/solo-levelling/the harness/phase-0/V-D_ARCHITECTURAL.md -> finding | parts/13-deve-solo.md:16715 | Verified
+- files/solo-levelling/the harness/phase-1/MASTER_TAXONOMY.md -> finding | parts/13-deve-solo.md:16859 | Verified
+- files/solo-levelling/the harness/phase-1/STATUS.md -> finding | parts/13-deve-solo.md:17335 | Verified
+- files/solo-levelling/the harness/phase-1/batch-1/BATCH-1_EXECUTION_AND_AGENCY.md -> finding | parts/13-deve-solo.md:17368 | Verified
+- files/solo-levelling/the harness/phase-1/batch-1/R-A_BROAD_MAPPER.md -> finding | parts/13-deve-solo.md:17579 | Verified
+- files/solo-levelling/the harness/phase-1/batch-1/R-B_CHALLENGER.md -> finding | parts/13-deve-solo.md:18004 | Verified
+- files/solo-levelling/the harness/phase-1/batch-1/V-C_ADVERSARIAL.md -> finding | parts/13-deve-solo.md:18261 | Verified
+- files/solo-levelling/the harness/phase-1/batch-1/V-D_ARCHITECTURAL.md -> finding | parts/13-deve-solo.md:18355 | Verified
+- files/solo-levelling/the harness/phase-1/batch-2/BATCH-2_CONTEXT_MEMORY_KNOWLEDGE.md -> finding | parts/13-deve-solo.md:18477 | Verified
+- files/solo-levelling/the harness/phase-1/batch-2/R-A_BROAD_MAPPER.md -> finding | parts/13-deve-solo.md:18717 | Verified
+- files/solo-levelling/the harness/phase-1/batch-2/R-B_CHALLENGER.md -> finding | parts/13-deve-solo.md:19294 | Verified
+- files/solo-levelling/the harness/phase-1/batch-2/V-C_ADVERSARIAL.md -> finding | parts/13-deve-solo.md:19594 | Verified
+- files/solo-levelling/the harness/phase-1/batch-2/V-D_ARCHITECTURAL.md -> finding | parts/13-deve-solo.md:19668 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/BATCH-3_INTEGRATION_EXTENSIBILITY.md -> finding | parts/13-deve-solo.md:19785 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/R-A_BROAD_MAPPER_AGY.md -> finding | parts/13-deve-solo.md:19898 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/R-A_BROAD_MAPPER_PARTIAL.md -> finding | parts/13-deve-solo.md:20104 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/R-B_CHALLENGER_AGY_.md -> finding | parts/13-deve-solo.md:20190 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/V-C_ADVERSARIAL_AGY.md -> finding | parts/13-deve-solo.md:20431 | Verified
+- files/solo-levelling/the harness/phase-1/batch-3/V-D_ARCHITECTURAL_AGY.md -> finding | parts/13-deve-solo.md:20768 | Verified
+- files/solo-levelling/the harness/phase-1/batch-4/BATCH-4_SAFETY_GOVERNANCE.md -> finding | parts/13-deve-solo.md:21076 | Verified
+- files/solo-levelling/the harness/phase-1/batch-4/R-A_SAFETY_AGY.md -> report | parts/13-deve-solo.md:21186 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-4/R-B_SAFETY_AGY.md -> report | parts/13-deve-solo.md:21577 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-4/V-C_SAFETY_AGY.md -> report | parts/13-deve-solo.md:21845 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-4/V-D_SAFETY_AGY.md -> report | parts/13-deve-solo.md:22208 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-5/BATCH-5_DX_OBSERVABILITY.md -> report | parts/13-deve-solo.md:22482 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-5/R-A_DX_AGY.md -> report | parts/13-deve-solo.md:22578 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-5/R-B_DX_AGY.md -> report | parts/13-deve-solo.md:23064 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-5/V-C_DX_AGY.md -> report | parts/13-deve-solo.md:23319 | Unverified
+- files/solo-levelling/the harness/phase-1/batch-5/V-D_DX_AGY.md -> report | parts/13-deve-solo.md:23688 | Unverified
+- files/solo-levelling/the harness/phase-1/synthesis/MASTER_D1.md -> harness | parts/13-deve-solo.md:23944 | Unverified
+- files/solo-levelling/the harness/phase-1/synthesis/MASTER_D2.md -> harness | parts/13-deve-solo.md:24438 | Unverified
+- files/solo-levelling/the harness/phase-2/RANKINGS.md -> report | parts/13-deve-solo.md:24727 | Unverified
+- files/solo-levelling/the harness/phase-2/RUBRIC.md -> rule | parts/13-deve-solo.md:24849 | Unverified
+- files/solo-levelling/the harness/phase-2/STATUS.md -> harness | parts/13-deve-solo.md:24898 | Unverified
+- files/solo-levelling/the harness/phase-2/rankings/G1_EXECUTION.md -> report | parts/13-deve-solo.md:24906 | Unverified
+- files/solo-levelling/the harness/phase-2/rankings/G2_CONTEXT.md -> report | parts/13-deve-solo.md:25193 | Unverified
+- files/solo-levelling/the harness/phase-2/rankings/G3_INTEGRATION.md -> report | parts/13-deve-solo.md:25584 | Unverified
+- files/solo-levelling/the harness/phase-2/rankings/G4_SAFETY.md -> report | parts/13-deve-solo.md:25905 | Unverified
+- files/solo-levelling/the harness/phase-2/rankings/G5_DX.md -> report | parts/13-deve-solo.md:26290 | Unverified
+- files/solo-levelling/the harness/phase-2/verify/ARBITER_AGY.md -> finding | parts/13-deve-solo.md:26572 | Unverified
+- files/solo-levelling/the harness/phase-2/verify/ARCHETYPE_MATRIX_AGY.md -> report | parts/13-deve-solo.md:26778 | Unresolved
+- files/solo-levelling/the harness/phase-2/verify/CROSSBATCH_TENSION.md -> finding | parts/13-deve-solo.md:26779 | Unverified
+- files/solo-levelling/the harness/phase-2/verify/MECH_PROT_AGY.md -> finding | parts/13-deve-solo.md:26948 | Unverified
+- files/solo-levelling/the harness/phase-2/verify/MECH_PROT_P3_SCOUT.md -> finding | parts/13-deve-solo.md:27228 | Unverified
+- files/solo-levelling/the harness/phase-3.5/FRICTION_LOG.md -> report | parts/13-deve-solo.md:27239 | Unverified
+- files/solo-levelling/the harness/phase-3.5/M_A_AGY.md -> report | parts/13-deve-solo.md:27379 | Unverified
+- files/solo-levelling/the harness/phase-3.5/M_B_AGY.md -> report | parts/13-deve-solo.md:27499 | Unverified
+- files/solo-levelling/the harness/phase-3.5/M_C_AGY.md -> report | parts/13-deve-solo.md:27643 | Unresolved
+- files/solo-levelling/the harness/phase-3.5/STATUS.md -> harness | parts/13-deve-solo.md:27644 | Unverified
+- files/solo-levelling/the harness/phase-3.5/VALIDATION_PLAN.md -> harness | parts/13-deve-solo.md:27652 | Unverified
+- files/solo-levelling/the harness/phase-3.5/VALIDATION_REPORT.md -> report | parts/13-deve-solo.md:27685 | Unverified
+- files/solo-levelling/the harness/phase-3.5/V_AUTHOR_AGY.md -> finding | parts/13-deve-solo.md:27743 | Unverified
+- files/solo-levelling/the harness/phase-3.5/V_COHERENCE_AGY.md -> finding | parts/13-deve-solo.md:28000 | Unverified
+- files/solo-levelling/the harness/phase-3/PLAN.md -> harness | parts/13-deve-solo.md:28196 | Unverified
+- files/solo-levelling/the harness/phase-3/STATUS.md -> harness | parts/13-deve-solo.md:28247 | Unverified
+- files/solo-levelling/the harness/phase-3/TOOL_SELECTION_INDEX.md -> report | parts/13-deve-solo.md:28255 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-A_EXECUTION.md -> tool | parts/13-deve-solo.md:28349 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-B_CONTEXT.md -> tool | parts/13-deve-solo.md:28556 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-C_INTEGRATION.md -> tool | parts/13-deve-solo.md:28973 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-D_SAFETY.md -> tool | parts/13-deve-solo.md:29467 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-E_DX_META.md -> tool | parts/13-deve-solo.md:30150 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-F_A_TIER.md -> tool | parts/13-deve-solo.md:30478 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-G_A_TIER_2.md -> tool | parts/13-deve-solo.md:30861 | Unverified
+- files/solo-levelling/the harness/phase-3/tools/T-H_B_TIER.md -> tool | parts/13-deve-solo.md:31179 | Unverified
+- files/solo-levelling/the harness/phase-3/verify/CROSS_TOOL_OVERLAP.md -> finding | parts/13-deve-solo.md:31551 | Unverified
+- files/solo-levelling/the harness/phase-3/verify/VERIFICATION_PASS1.md -> finding | parts/13-deve-solo.md:31739 | Unverified
+- files/solo-levelling/the harness/phase-3/verify/VERIFICATION_PASS2.md -> finding | parts/13-deve-solo.md:31841 | Unverified
+- files/solo-levelling/the harness/plan.md -> harness | parts/13-deve-solo.md:31996 | Unverified
+- files/solo-levelling/the harness/scripts/__init__.py -> tool | parts/13-deve-solo.md:32390 | Unverified
+- files/solo-levelling/the harness/scripts/mock_telemetry_daemon.py -> tool | parts/13-deve-solo.md:32392 | Unverified
+- files/solo-levelling/the harness/scripts/run_validation.sh -> workflow | parts/13-deve-solo.md:32910 | Unverified
+- files/solo-levelling/the harness/update.md -> report | parts/13-deve-solo.md:33000 | Unverified
+- files/solo-levelling/the harness/validation/REMAINING_GAPS.md -> finding | parts/13-deve-solo.md:33061 | Unverified
+- files/solo-levelling/the harness/validation/V-KB-1.md -> finding | parts/13-deve-solo.md:33332 | Unverified
+- files/solo-levelling/the harness/validation/V-KB-2.md -> finding | parts/13-deve-solo.md:33487 | Unverified
+- files/solo-levelling/the harness/validation/V-KB-3.md -> finding | parts/13-deve-solo.md:33636 | Unverified
+- files/solo-levelling/the harness/validation/V-KB-4.md -> finding | parts/13-deve-solo.md:33747 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-1.md -> finding | parts/13-deve-solo.md:33853 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-2.md -> finding | parts/13-deve-solo.md:33946 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-3.md -> finding | parts/13-deve-solo.md:34041 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-4.md -> finding | parts/13-deve-solo.md:34196 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-5.md -> finding | parts/13-deve-solo.md:34356 | Unverified
+- files/solo-levelling/the harness/validation/V-OB-6.md -> finding | parts/13-deve-solo.md:34449 | Unverified
+- files/solo-levelling/the harness/validation/V-SYN-1.md -> finding | parts/13-deve-solo.md:34572 | Unverified
+- files/solo-levelling/the harness/validation/V-SYN-2.md -> finding | parts/13-deve-solo.md:34842 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-1.md -> finding | parts/13-deve-solo.md:34966 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-2.md -> finding | parts/13-deve-solo.md:35163 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-3.md -> finding | parts/13-deve-solo.md:35329 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-4.md -> finding | parts/13-deve-solo.md:35486 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-5.md -> finding | parts/13-deve-solo.md:35605 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-6.md -> finding | parts/13-deve-solo.md:35758 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-7.md -> finding | parts/13-deve-solo.md:35921 | Unverified
+- files/solo-levelling/the harness/validation/V-TO-8.md -> finding | parts/13-deve-solo.md:36015 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-1.md -> finding | parts/13-deve-solo.md:36130 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-2.md -> finding | parts/13-deve-solo.md:36263 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-3.md -> finding | parts/13-deve-solo.md:36389 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-4.md -> finding | parts/13-deve-solo.md:36499 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-5.md -> finding | parts/13-deve-solo.md:36587 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-6.md -> finding | parts/13-deve-solo.md:36662 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-7.md -> finding | parts/13-deve-solo.md:36772 | Unverified
+- files/solo-levelling/the harness/validation/V-TX-8.md -> finding | parts/13-deve-solo.md:36895 | Unverified
+- files/solo-levelling/the harness/validation/VALIDATION_AUDIT.md -> finding | parts/13-deve-solo.md:37000 | Unverified
+- files/solo-levelling/verification.md -> forensic | parts/13-deve-solo.md:37271 | Verified

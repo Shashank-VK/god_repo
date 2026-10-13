@@ -1,0 +1,15 @@
+{
+ "staged": 341,
+ "unmapped": [],
+ "enum": [
+  "pure-prompt-skill",
+  "design-token-no-runtime",
+  "finding-no-install",
+  "metadata-only",
+  "template-example",
+  "superseded-archived",
+  "transport-not-applicable",
+  "evidence-ledger"
+ ],
+ "new_member": "evidence-ledger (staged in this OS revision)"
+}

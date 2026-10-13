@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "how-to-use card",
+  "type": "object",
+  "required": [
+    "source",
+    "part",
+    "lines",
+    "category",
+    "WHAT",
+    "WHERE_USED",
+    "HOW_TO_USE",
+    "WHY",
+    "WHAT_NOT_TO_DO",
+    "HARNESS_WIRING",
+    "NEW_DISCOVERY",
+    "VERDICT",
+    "live_urls",
+    "conflicts",
+    "coverage",
+    "not_applicable"
+  ],
+  "properties": {
+    "source": {
+      "type": "string",
+      "pattern": "^files/"
+    },
+    "part": {
+      "type": "string"
+    },
+    "lines": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "skill",
+        "mcp",
+        "agent",
+        "harness",
+        "workflow",
+        "hook",
+        "command",
+        "gate",
+        "style",
+        "watchlist",
+        "archive",
+        "report",
+        "finding",
+        "company",
+        "tool",
+        "practice",
+        "forensic",
+        "case",
+        "evidence",
+        "rule",
+        "template",
+        "discipline",
+        "os",
+        "config"
+      ]
+    },
+    "WHAT": {
+      "type": "string",
+      "minLength": 1
+    },
+    "WHERE_USED": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "HOW_TO_USE": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "WHY": {
+      "type": "string"
+    },
+    "WHAT_NOT_TO_DO": {
+      "type": "string"
+    },
+    "HARNESS_WIRING": {
+      "type": "object"
+    },
+    "NEW_DISCOVERY": {
+      "type": "boolean"
+    },
+    "VERDICT": {
+      "type": "string",
+      "enum": [
+        "Verified",
+        "Partially",
+        "Unverified",
+        "Historical",
+        "Unresolved",
+        "BLOCKED",
+        "DEAD"
+      ]
+    },
+    "live_urls": {
+      "type": "array"
+    },
+    "conflicts": {
+      "type": "array"
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "receipts",
+        "ranges"
+      ]
+    },
+    "not_applicable": {
+      "type": "object"
+    },
+    "duplicate_content": {
+      "type": "boolean"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "final_card"
+      ]
+    }
+  }
+}

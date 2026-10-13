@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "coverage receipt",
+  "type": "object",
+  "required": [
+    "source",
+    "worker",
+    "range",
+    "total_lines",
+    "read_sha256_bytes",
+    "status",
+    "timestamp"
+  ],
+  "properties": {
+    "source": {
+      "type": "string"
+    },
+    "worker": {
+      "type": "string",
+      "pattern": "^W[0-9]{3}$"
+    },
+    "range": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "total_lines": {
+      "type": "integer"
+    },
+    "read_sha256_bytes": {
+      "type": "string",
+      "minLength": 64,
+      "maxLength": 64
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "done"
+      ]
+    },
+    "timestamp": {
+      "type": "string"
+    }
+  }
+}

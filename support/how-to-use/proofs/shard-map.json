@@ -1,0 +1,4307 @@
+{
+  "shards": [
+    {
+      "shard": "W001",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/README.md",
+          "start_line": 1,
+          "end_line": 162
+        },
+        {
+          "source": "files/opencode-research/verification.md",
+          "start_line": 1,
+          "end_line": 75
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W002",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/catalog.md",
+          "start_line": 1,
+          "end_line": 748,
+          "split": "1/4",
+          "final_card_owner": "W002"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W003",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/catalog.md",
+          "start_line": 749,
+          "end_line": 1496,
+          "split": "2/4",
+          "final_card_owner": "W002"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W004",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/catalog.md",
+          "start_line": 1497,
+          "end_line": 2244,
+          "split": "3/4",
+          "final_card_owner": "W002"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W005",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/catalog.md",
+          "start_line": 2245,
+          "end_line": 2994,
+          "split": "4/4",
+          "final_card_owner": "W002"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W006",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/BUILD-PROMPT-FINAL.md",
+          "start_line": 1,
+          "end_line": 2261
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W007",
+      "batch": "B01",
+      "files": [
+        {
+          "source": "files/opencode-research/BUILD-PROMPT-UNIVERSAL.md",
+          "start_line": 1,
+          "end_line": 2072
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W008",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/00-verification.md",
+          "start_line": 1,
+          "end_line": 83
+        },
+        {
+          "source": "files/opencode-research/research/00-gaps-and-unknowns.md",
+          "start_line": 1,
+          "end_line": 67
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W009",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/01-existing-summary.md",
+          "start_line": 1,
+          "end_line": 224
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W010",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/02-ui-ux.md",
+          "start_line": 1,
+          "end_line": 250
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W011",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/03-multi-agent-council.md",
+          "start_line": 1,
+          "end_line": 192
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W012",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/04-harness-environment.md",
+          "start_line": 1,
+          "end_line": 173
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W013",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/05-remaining-resources.md",
+          "start_line": 1,
+          "end_line": 214
+        },
+        {
+          "source": "files/opencode-research/research/06-unfound-and-gaps.md",
+          "start_line": 1,
+          "end_line": 60
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W014",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/07-autonomous-agent-architecture.md",
+          "start_line": 1,
+          "end_line": 342
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W015",
+      "batch": "B02",
+      "files": [
+        {
+          "source": "files/opencode-research/research/08-astryx-mcp.md",
+          "start_line": 1,
+          "end_line": 169
+        },
+        {
+          "source": "files/opencode-research/research/08-loopy-verification.md",
+          "start_line": 1,
+          "end_line": 175
+        },
+        {
+          "source": "files/opencode-research/research/08-pre-commit-hook.md",
+          "start_line": 1,
+          "end_line": 204
+        },
+        {
+          "source": "files/opencode-research/research/08-testing-qa.md",
+          "start_line": 1,
+          "end_line": 198
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W016",
+      "batch": "B03",
+      "files": [
+        {
+          "source": "files/opencode-research/harness-templates/AGENTS.md",
+          "start_line": 1,
+          "end_line": 56
+        },
+        {
+          "source": "files/opencode-research/harness-templates/README.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/opencode-research/harness-templates/claude-progress.md",
+          "start_line": 1,
+          "end_line": 49
+        },
+        {
+          "source": "files/opencode-research/harness-templates/feature_list.json",
+          "start_line": 1,
+          "end_line": 65
+        },
+        {
+          "source": "files/opencode-research/harness-templates/init.sh",
+          "start_line": 1,
+          "end_line": 30
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W017",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/01-core-web-tech.md",
+          "start_line": 1,
+          "end_line": 497
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W018",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/02-frontend.md",
+          "start_line": 1,
+          "end_line": 579
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W019",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/03-backend.md",
+          "start_line": 1,
+          "end_line": 540
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W020",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/04-data.md",
+          "start_line": 1,
+          "end_line": 503
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W021",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/05-builders.md",
+          "start_line": 1,
+          "end_line": 619
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W022",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/06-design-systems.md",
+          "start_line": 1,
+          "end_line": 177
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W023",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/07-design-to-code.md",
+          "start_line": 1,
+          "end_line": 173
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W024",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/08-visual-assets.md",
+          "start_line": 1,
+          "end_line": 177
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W025",
+      "batch": "B04",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/10-mcp.md",
+          "start_line": 1,
+          "end_line": 392,
+          "split": "1/2",
+          "final_card_owner": "W025"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W026",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/10-mcp.md",
+          "start_line": 393,
+          "end_line": 784,
+          "split": "2/2",
+          "final_card_owner": "W025"
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W027",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/09-skills.md",
+          "start_line": 1,
+          "end_line": 580
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W028",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/11-agents.md",
+          "start_line": 1,
+          "end_line": 518
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W029",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/12-multi-agent.md",
+          "start_line": 1,
+          "end_line": 480
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W030",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/13-harness.md",
+          "start_line": 1,
+          "end_line": 479
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W031",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/14-context-memory.md",
+          "start_line": 1,
+          "end_line": 524
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W032",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/15-scraping.md",
+          "start_line": 1,
+          "end_line": 422
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W033",
+      "batch": "B05",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/16-testing.md",
+          "start_line": 1,
+          "end_line": 461
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W034",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/17-security.md",
+          "start_line": 1,
+          "end_line": 426
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W035",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/18-cicd.md",
+          "start_line": 1,
+          "end_line": 421
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W036",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/19-cloud-deploy.md",
+          "start_line": 1,
+          "end_line": 421
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W037",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/20-seo-cms-commerce.md",
+          "start_line": 1,
+          "end_line": 463
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W038",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/21-creative-3d.md",
+          "start_line": 1,
+          "end_line": 175
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W039",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/22-prompt-archives-meta.md",
+          "start_line": 1,
+          "end_line": 146
+        },
+        {
+          "source": "files/God research/E-prompt-directory-meta-only.md",
+          "start_line": 1,
+          "end_line": 146
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W040",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/B-category-catalogs/23-watchlist.md",
+          "start_line": 1,
+          "end_line": 272
+        },
+        {
+          "source": "files/God research/C-named-register-23.md",
+          "start_line": 1,
+          "end_line": 272
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W041",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/A-master-index.md",
+          "start_line": 1,
+          "end_line": 97
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W042",
+      "batch": "B06",
+      "files": [
+        {
+          "source": "files/God research/00-phase0-inventory.md",
+          "start_line": 1,
+          "end_line": 214
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W043",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/00-index-29.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/God research/D-design-styles/01-minimalism.md",
+          "start_line": 1,
+          "end_line": 62
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W044",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/02-maximalism.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/God research/D-design-styles/03-swiss-international-typographic.md",
+          "start_line": 1,
+          "end_line": 61
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W045",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/04-brutalism.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/God research/D-design-styles/05-surrealism.md",
+          "start_line": 1,
+          "end_line": 52
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W046",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/06-neo-brutalism.md",
+          "start_line": 1,
+          "end_line": 56
+        },
+        {
+          "source": "files/God research/D-design-styles/07-neoclassical.md",
+          "start_line": 1,
+          "end_line": 55
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W047",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/08-neumorphism.md",
+          "start_line": 1,
+          "end_line": 57
+        },
+        {
+          "source": "files/God research/D-design-styles/09-scrapbook.md",
+          "start_line": 1,
+          "end_line": 57
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W048",
+      "batch": "B07",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/10-glassmorphism.md",
+          "start_line": 1,
+          "end_line": 61
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W049",
+      "batch": "B08",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/11-claymorphism.md",
+          "start_line": 1,
+          "end_line": 34
+        },
+        {
+          "source": "files/God research/D-design-styles/12-bento-grid.md",
+          "start_line": 1,
+          "end_line": 31
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W050",
+      "batch": "B08",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/13-pixel-art.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/God research/D-design-styles/14-conceptual-sketch.md",
+          "start_line": 1,
+          "end_line": 30
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W051",
+      "batch": "B08",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/15-luxury-typography.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/God research/D-design-styles/16-editorial.md",
+          "start_line": 1,
+          "end_line": 30
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W052",
+      "batch": "B08",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/17-y2k.md",
+          "start_line": 1,
+          "end_line": 31
+        },
+        {
+          "source": "files/God research/D-design-styles/18-ethereal.md",
+          "start_line": 1,
+          "end_line": 29
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W053",
+      "batch": "B08",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/19-bohemian.md",
+          "start_line": 1,
+          "end_line": 28
+        },
+        {
+          "source": "files/God research/D-design-styles/20-dark-moody.md",
+          "start_line": 1,
+          "end_line": 31
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W054",
+      "batch": "B09",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/21-cyberpunk.md",
+          "start_line": 1,
+          "end_line": 28
+        },
+        {
+          "source": "files/God research/D-design-styles/22-anthropomorphic.md",
+          "start_line": 1,
+          "end_line": 24
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W055",
+      "batch": "B09",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/23-victorian.md",
+          "start_line": 1,
+          "end_line": 25
+        },
+        {
+          "source": "files/God research/D-design-styles/24-cybercore.md",
+          "start_line": 1,
+          "end_line": 34
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W056",
+      "batch": "B09",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/25-synthwave.md",
+          "start_line": 1,
+          "end_line": 28
+        },
+        {
+          "source": "files/God research/D-design-styles/26-graffiti.md",
+          "start_line": 1,
+          "end_line": 22
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W057",
+      "batch": "B09",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/27-gothic.md",
+          "start_line": 1,
+          "end_line": 25
+        },
+        {
+          "source": "files/God research/D-design-styles/28-mixed-media.md",
+          "start_line": 1,
+          "end_line": 22
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W058",
+      "batch": "B09",
+      "files": [
+        {
+          "source": "files/God research/D-design-styles/29-body-art-inspired.md",
+          "start_line": 1,
+          "end_line": 25
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W059",
+      "batch": "B10",
+      "files": [
+        {
+          "source": "files/God research/atlas/README.md",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/God research/atlas/A-master-index.md",
+          "start_line": 1,
+          "end_line": 1378
+        },
+        {
+          "source": "files/God research/atlas/B1-core-web-technologies.md",
+          "start_line": 1,
+          "end_line": 929
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W060",
+      "batch": "B10",
+      "files": [
+        {
+          "source": "files/God research/atlas/B2-design-and-visual.md",
+          "start_line": 1,
+          "end_line": 148
+        },
+        {
+          "source": "files/God research/atlas/B3-agent-ecosystem.md",
+          "start_line": 1,
+          "end_line": 250
+        },
+        {
+          "source": "files/God research/atlas/B4-multiagent-harness-context.md",
+          "start_line": 1,
+          "end_line": 151
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W061",
+      "batch": "B10",
+      "files": [
+        {
+          "source": "files/God research/atlas/B5-infrastructure-quality.md",
+          "start_line": 1,
+          "end_line": 473
+        },
+        {
+          "source": "files/God research/atlas/C-named-watchlist.md",
+          "start_line": 1,
+          "end_line": 433
+        },
+        {
+          "source": "files/God research/atlas/D-design-styles.md",
+          "start_line": 1,
+          "end_line": 678
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W062",
+      "batch": "B10",
+      "files": [
+        {
+          "source": "files/God research/atlas/E-prompt-archives.md",
+          "start_line": 1,
+          "end_line": 446
+        },
+        {
+          "source": "files/God research/atlas/F-compatibility-index.md",
+          "start_line": 1,
+          "end_line": 99
+        },
+        {
+          "source": "files/God research/atlas/G-relationship-index.md",
+          "start_line": 1,
+          "end_line": 70
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W063",
+      "batch": "B10",
+      "files": [
+        {
+          "source": "files/God research/atlas/H-verification-register.md",
+          "start_line": 1,
+          "end_line": 136
+        },
+        {
+          "source": "files/God research/atlas/I-coverage-register.md",
+          "start_line": 1,
+          "end_line": 59
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W064",
+      "batch": "B11",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/01a-languages-build.md",
+          "start_line": 1,
+          "end_line": 3215
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W065",
+      "batch": "B11",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/01b-frontend.md",
+          "start_line": 1,
+          "end_line": 1195,
+          "split": "1/3",
+          "final_card_owner": "W065"
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W066",
+      "batch": "B11",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/01b-frontend.md",
+          "start_line": 1196,
+          "end_line": 2390,
+          "split": "2/3",
+          "final_card_owner": "W065"
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W067",
+      "batch": "B11",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/01b-frontend.md",
+          "start_line": 2391,
+          "end_line": 3585,
+          "split": "3/3",
+          "final_card_owner": "W065"
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W068",
+      "batch": "B11",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/01c-backend-data-platforms.md",
+          "start_line": 1,
+          "end_line": 1887
+        },
+        {
+          "source": "files/God research/atlas/catalogs/02a-design.md",
+          "start_line": 1,
+          "end_line": 2427
+        },
+        {
+          "source": "files/God research/atlas/catalogs/02b-design-styles.md",
+          "start_line": 1,
+          "end_line": 593
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W069",
+      "batch": "B12",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/03a-skills.md",
+          "start_line": 1,
+          "end_line": 763
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W070",
+      "batch": "B12",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/03b-agents.md",
+          "start_line": 1,
+          "end_line": 885
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W071",
+      "batch": "B12",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/04-mcp.md",
+          "start_line": 1,
+          "end_line": 2846
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W072",
+      "batch": "B12",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/05a-orchestration.md",
+          "start_line": 1,
+          "end_line": 1400
+        },
+        {
+          "source": "files/God research/atlas/catalogs/05b-context.md",
+          "start_line": 1,
+          "end_line": 1380
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W073",
+      "batch": "B13",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/06a-data-acquisition.md",
+          "start_line": 1,
+          "end_line": 2322
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W074",
+      "batch": "B13",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/06b-quality.md",
+          "start_line": 1,
+          "end_line": 2779
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W075",
+      "batch": "B13",
+      "files": [
+        {
+          "source": "files/God research/atlas/catalogs/06c-operations.md",
+          "start_line": 1,
+          "end_line": 2436
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W076",
+      "batch": "B13",
+      "files": [
+        {
+          "source": "files/God research/atlas/registers/coverage.md",
+          "start_line": 1,
+          "end_line": 37
+        },
+        {
+          "source": "files/God research/atlas/registers/discrepancies.md",
+          "start_line": 1,
+          "end_line": 83
+        },
+        {
+          "source": "files/God research/atlas/registers/named-watchlist.md",
+          "start_line": 1,
+          "end_line": 435
+        },
+        {
+          "source": "files/God research/atlas/registers/prompt-archives.md",
+          "start_line": 1,
+          "end_line": 440
+        },
+        {
+          "source": "files/God research/atlas/index/master-index.md",
+          "start_line": 1,
+          "end_line": 1433
+        },
+        {
+          "source": "files/God research/atlas/index/phase0-inventory.md",
+          "start_line": 1,
+          "end_line": 194
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W077",
+      "batch": "B14",
+      "files": [
+        {
+          "source": "files/God research - gemini/00-README-second-pass.md",
+          "start_line": 1,
+          "end_line": 52
+        },
+        {
+          "source": "files/God research - gemini/01-core-web-tech.md",
+          "start_line": 1,
+          "end_line": 960
+        },
+        {
+          "source": "files/God research - gemini/02-design-styles.md",
+          "start_line": 1,
+          "end_line": 628
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W078",
+      "batch": "B14",
+      "files": [
+        {
+          "source": "files/God research - gemini/03-skills-mcp.md",
+          "start_line": 1,
+          "end_line": 545
+        },
+        {
+          "source": "files/God research - gemini/04-agents-harness-context.md",
+          "start_line": 1,
+          "end_line": 910
+        },
+        {
+          "source": "files/God research - gemini/05-infra-ops.md",
+          "start_line": 1,
+          "end_line": 1043
+        },
+        {
+          "source": "files/God research - gemini/06-watchlist-prompts.md",
+          "start_line": 1,
+          "end_line": 136
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W079",
+      "batch": "B15",
+      "files": [
+        {
+          "source": "files/God research/agy-pass/00-README-third-pass.md",
+          "start_line": 1,
+          "end_line": 39
+        },
+        {
+          "source": "files/God research/agy-pass/01-core-web-tech.md",
+          "start_line": 1,
+          "end_line": 961
+        },
+        {
+          "source": "files/God research/agy-pass/02-design-styles.md",
+          "start_line": 1,
+          "end_line": 837
+        },
+        {
+          "source": "files/God research/agy-pass/03-skills-mcp.md",
+          "start_line": 1,
+          "end_line": 841
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W080",
+      "batch": "B15",
+      "files": [
+        {
+          "source": "files/God research/agy-pass/04-agents-harness-context.md",
+          "start_line": 1,
+          "end_line": 638
+        },
+        {
+          "source": "files/God research/agy-pass/05-infra-ops.md",
+          "start_line": 1,
+          "end_line": 614
+        },
+        {
+          "source": "files/God research/agy-pass/06-watchlist-prompts.md",
+          "start_line": 1,
+          "end_line": 401
+        },
+        {
+          "source": "files/God research/DIFF-REPORT-gemini-vs-firstpass.md",
+          "start_line": 1,
+          "end_line": 118
+        },
+        {
+          "source": "files/God research/DIFF-REPORT-agy-vs-both.md",
+          "start_line": 1,
+          "end_line": 62
+        },
+        {
+          "source": "files/God research/DIFF-REPORT-atlas-vs-all.md",
+          "start_line": 1,
+          "end_line": 69
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W081",
+      "batch": "B15",
+      "files": [
+        {
+          "source": "files/God research/atlas-READ-LOG.md",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/God research/_state/atlas-read-group1.md",
+          "start_line": 1,
+          "end_line": 83
+        },
+        {
+          "source": "files/God research/_state/atlas-read-group2.md",
+          "start_line": 1,
+          "end_line": 113
+        },
+        {
+          "source": "files/God research/_state/atlas-read-group3.md",
+          "start_line": 1,
+          "end_line": 115
+        },
+        {
+          "source": "files/God research/_state/atlas-read-group4.md",
+          "start_line": 1,
+          "end_line": 315
+        },
+        {
+          "source": "files/God research/_state/resource-index.json",
+          "start_line": 1,
+          "end_line": 1
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W082",
+      "batch": "B16",
+      "files": [
+        {
+          "source": "files/God research/diff report.txt",
+          "start_line": 1,
+          "end_line": 1234
+        },
+        {
+          "source": "files/God research/the_omniscient_resource_atlas.md",
+          "start_line": 1,
+          "end_line": 1684
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W083",
+      "batch": "B17",
+      "files": [
+        {
+          "source": "files/solo-levelling/00-master-framework.md",
+          "start_line": 1,
+          "end_line": 170
+        },
+        {
+          "source": "files/solo-levelling/01-phases-1-to-5.md",
+          "start_line": 1,
+          "end_line": 380
+        },
+        {
+          "source": "files/solo-levelling/02-phases-6-to-10.md",
+          "start_line": 1,
+          "end_line": 362
+        },
+        {
+          "source": "files/solo-levelling/03-phases-11-to-15.md",
+          "start_line": 1,
+          "end_line": 262
+        },
+        {
+          "source": "files/solo-levelling/AGENTS.md",
+          "start_line": 1,
+          "end_line": 51
+        },
+        {
+          "source": "files/solo-levelling/CLAUDE.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/solo-levelling/GOD_PROMPT.md",
+          "start_line": 1,
+          "end_line": 1935
+        },
+        {
+          "source": "files/solo-levelling/Taskfile.yml",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/solo-levelling/lefthook.yml",
+          "start_line": 1,
+          "end_line": 15
+        },
+        {
+          "source": "files/solo-levelling/phase-16-loop-engineering.md",
+          "start_line": 1,
+          "end_line": 86
+        },
+        {
+          "source": "files/solo-levelling/project-tracker.md",
+          "start_line": 1,
+          "end_line": 19
+        },
+        {
+          "source": "files/solo-levelling/research-log.md",
+          "start_line": 1,
+          "end_line": 27
+        },
+        {
+          "source": "files/solo-levelling/verification.md",
+          "start_line": 1,
+          "end_line": 760
+        },
+        {
+          "source": "files/solo-levelling/.cursorrules",
+          "start_line": 1,
+          "end_line": 12
+        },
+        {
+          "source": "files/solo-levelling/.env.template",
+          "start_line": 1,
+          "end_line": 13
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-01-findings.md",
+          "start_line": 1,
+          "end_line": 113
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-02-findings.md",
+          "start_line": 1,
+          "end_line": 383
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-03-findings.md",
+          "start_line": 1,
+          "end_line": 270
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-04-findings.md",
+          "start_line": 1,
+          "end_line": 219
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-05-findings.md",
+          "start_line": 1,
+          "end_line": 251
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-06-findings.md",
+          "start_line": 1,
+          "end_line": 232
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-07-findings.md",
+          "start_line": 1,
+          "end_line": 202
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-08-findings.md",
+          "start_line": 1,
+          "end_line": 211
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-09-findings.md",
+          "start_line": 1,
+          "end_line": 201
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-10-findings.md",
+          "start_line": 1,
+          "end_line": 233
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W084",
+      "batch": "B17",
+      "files": [
+        {
+          "source": "files/solo-levelling/findings/phase-11-findings.md",
+          "start_line": 1,
+          "end_line": 199
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-12-findings.md",
+          "start_line": 1,
+          "end_line": 170
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-13-findings.md",
+          "start_line": 1,
+          "end_line": 286
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-14-findings.md",
+          "start_line": 1,
+          "end_line": 119
+        },
+        {
+          "source": "files/solo-levelling/findings/phase-15-master-synthesis.md",
+          "start_line": 1,
+          "end_line": 651
+        },
+        {
+          "source": "files/solo-levelling/os/README.md",
+          "start_line": 1,
+          "end_line": 24
+        },
+        {
+          "source": "files/solo-levelling/os/decision-architecture.md",
+          "start_line": 1,
+          "end_line": 33
+        },
+        {
+          "source": "files/solo-levelling/os/engineering-rules.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/solo-levelling/os/fcar-rubric.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/solo-levelling/os/gates.md",
+          "start_line": 1,
+          "end_line": 25
+        },
+        {
+          "source": "files/solo-levelling/os/lifecycle.md",
+          "start_line": 1,
+          "end_line": 54
+        },
+        {
+          "source": "files/solo-levelling/os/quality-security.md",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/solo-levelling/os/release-experiments.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/solo-levelling/os/roles.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/build-log-template.md",
+          "start_line": 1,
+          "end_line": 24
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/design-note-template.md",
+          "start_line": 1,
+          "end_line": 41
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/launch-checklist-template.md",
+          "start_line": 1,
+          "end_line": 24
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/pitch-template.md",
+          "start_line": 1,
+          "end_line": 29
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/postmortem-template.md",
+          "start_line": 1,
+          "end_line": 31
+        },
+        {
+          "source": "files/solo-levelling/os/artifacts/prfaq-template.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/solo-levelling/projects/.gitkeep",
+          "start_line": 1,
+          "end_line": 1
+        },
+        {
+          "source": "files/solo-levelling/scripts/scope-check.py",
+          "start_line": 1,
+          "end_line": 83
+        },
+        {
+          "source": "files/solo-levelling/scripts/secret-scan.sh",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/solo-levelling/scripts/verify.sh",
+          "start_line": 1,
+          "end_line": 52
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W085",
+      "batch": "B18",
+      "files": [
+        {
+          "source": "files/solo-levelling/.harness/README.md",
+          "start_line": 1,
+          "end_line": 27
+        },
+        {
+          "source": "files/solo-levelling/.harness/config/harness.yaml",
+          "start_line": 1,
+          "end_line": 52
+        },
+        {
+          "source": "files/solo-levelling/.harness/hooks/hooks.json",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/solo-levelling/.harness/hooks/pre_tool_guard.py",
+          "start_line": 1,
+          "end_line": 89
+        },
+        {
+          "source": "files/solo-levelling/.harness/mcp/tools.yaml",
+          "start_line": 1,
+          "end_line": 99
+        },
+        {
+          "source": "files/solo-levelling/.harness/permissions/policies.cedar",
+          "start_line": 1,
+          "end_line": 82
+        },
+        {
+          "source": "files/solo-levelling/.harness/permissions/presets.json",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/solo-levelling/.harness/sandbox/gate.sh",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/alternatives-generator/SKILL.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/failure-mode-analyzer/SKILL.md",
+          "start_line": 1,
+          "end_line": 37
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/fcar-reviewer/SKILL.md",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/launch-checklist-runner/SKILL.md",
+          "start_line": 1,
+          "end_line": 51
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/postmortem-opener/SKILL.md",
+          "start_line": 1,
+          "end_line": 30
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W086",
+      "batch": "B18",
+      "files": [
+        {
+          "source": "files/solo-levelling/.harness/skills/scope-gate/SKILL.md",
+          "start_line": 1,
+          "end_line": 35
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/stakes-classifier/SKILL.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/unknown-first-sorter/SKILL.md",
+          "start_line": 1,
+          "end_line": 36
+        },
+        {
+          "source": "files/solo-levelling/.harness/skills/working-backwards/SKILL.md",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/solo-levelling/.harness/telemetry/litellm-config.yaml",
+          "start_line": 1,
+          "end_line": 35
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/deploy-monitor.yaml",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/fcar-review.yaml",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/launch-checklist.yaml",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/postmortem.yaml",
+          "start_line": 1,
+          "end_line": 39
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/scope-gate.yaml",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/stakes-classifier.yaml",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/unknown-first-sorter.yaml",
+          "start_line": 1,
+          "end_line": 37
+        },
+        {
+          "source": "files/solo-levelling/.harness/workflows/working-backwards.yaml",
+          "start_line": 1,
+          "end_line": 38
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W087",
+      "batch": "B19",
+      "files": [
+        {
+          "source": "files/solo-levelling/the harness/.env.template",
+          "start_line": 1,
+          "end_line": 87
+        },
+        {
+          "source": "files/solo-levelling/the harness/.gemini/settings.json",
+          "start_line": 1,
+          "end_line": 16
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/README.md",
+          "start_line": 1,
+          "end_line": 34
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/agents/coder.md",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/agents/explorer.md",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/agents/planner.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/agents/reviewer.md",
+          "start_line": 1,
+          "end_line": 81
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/config/harness.yaml",
+          "start_line": 1,
+          "end_line": 181
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/hooks/hooks.json",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/hooks/post_tool_linter.py",
+          "start_line": 1,
+          "end_line": 76
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/hooks/pre_tool_guard.py",
+          "start_line": 1,
+          "end_line": 94
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/mcp/mcp_servers.json",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/permissions/policies.cedar",
+          "start_line": 1,
+          "end_line": 81
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/permissions/presets.json",
+          "start_line": 1,
+          "end_line": 117
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/sandbox/gate.sh",
+          "start_line": 1,
+          "end_line": 238
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/01-repo-surveyor-map/SKILL.md",
+          "start_line": 1,
+          "end_line": 178
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/01-repo-surveyor-map/scripts/survey_repo.py",
+          "start_line": 1,
+          "end_line": 130
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/02-git-worktree-isolation/SKILL.md",
+          "start_line": 1,
+          "end_line": 112
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/02-git-worktree-isolation/scripts/create_worktree.sh",
+          "start_line": 1,
+          "end_line": 44
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/03-context-compaction-pruner/SKILL.md",
+          "start_line": 1,
+          "end_line": 78
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/07-api-contract-first/SKILL.md",
+          "start_line": 1,
+          "end_line": 201
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/08-database-schema-architect/SKILL.md",
+          "start_line": 1,
+          "end_line": 156
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/09-docker-sandbox-runner/SKILL.md",
+          "start_line": 1,
+          "end_line": 110
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/09-docker-sandbox-runner/scripts/sandbox_run.sh",
+          "start_line": 1,
+          "end_line": 123
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/11-litellm-router-admin/SKILL.md",
+          "start_line": 1,
+          "end_line": 175
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/21-tdd-red-green-refactor/SKILL.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/22-playwright-e2e-matrix/SKILL.md",
+          "start_line": 1,
+          "end_line": 229
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/23-pytest-fixture-factory/SKILL.md",
+          "start_line": 1,
+          "end_line": 198
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/26-systematic-rca/SKILL.md",
+          "start_line": 1,
+          "end_line": 101
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/31-owasp-top10-vuln-scanner/SKILL.md",
+          "start_line": 1,
+          "end_line": 151
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/32-secrets-entropy-sanitizer/SKILL.md",
+          "start_line": 1,
+          "end_line": 98
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/32-secrets-entropy-sanitizer/scripts/entropy_scan.sh",
+          "start_line": 1,
+          "end_line": 54
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/35-cryptography-safe-patterns/SKILL.md",
+          "start_line": 1,
+          "end_line": 204
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/36-grill-me-socratic-planner/SKILL.md",
+          "start_line": 1,
+          "end_line": 115
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/skills/index.json",
+          "start_line": 1,
+          "end_line": 568
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/telemetry/langfuse-config.json",
+          "start_line": 1,
+          "end_line": 16
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/telemetry/litellm-config.yaml",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/blueprints/build-verify.yaml",
+          "start_line": 1,
+          "end_line": 61
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/blueprints/migration-safeguard.yaml",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/blueprints/refactor-safely.yaml",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/blueprints/test-and-verify.yaml",
+          "start_line": 1,
+          "end_line": 35
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/build-verify.yaml",
+          "start_line": 1,
+          "end_line": 61
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/migration-safeguard.yaml",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/refactor-safely.yaml",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/solo-levelling/the harness/.harness/workflows/test-and-verify.yaml",
+          "start_line": 1,
+          "end_line": 35
+        },
+        {
+          "source": "files/solo-levelling/the harness/AGENTS.md",
+          "start_line": 1,
+          "end_line": 109
+        },
+        {
+          "source": "files/solo-levelling/the harness/CLAUDE.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/solo-levelling/the harness/ISSUES.md",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/solo-levelling/the harness/SKILLS_VERIFICATION.md",
+          "start_line": 1,
+          "end_line": 179
+        },
+        {
+          "source": "files/solo-levelling/the harness/Taskfile.yml",
+          "start_line": 1,
+          "end_line": 79
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-1_EXECUTION.md",
+          "start_line": 1,
+          "end_line": 162
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-2_CONTEXT.md",
+          "start_line": 1,
+          "end_line": 206
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-3_INTEGRATION.md",
+          "start_line": 1,
+          "end_line": 228
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-4_SAFETY.md",
+          "start_line": 1,
+          "end_line": 184
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-5_DX_META.md",
+          "start_line": 1,
+          "end_line": 140
+        },
+        {
+          "source": "files/solo-levelling/the harness/elements/D-6_A_B_TIER.md",
+          "start_line": 1,
+          "end_line": 120
+        },
+        {
+          "source": "files/solo-levelling/the harness/lefthook.yml",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/.gitkeep",
+          "start_line": 1,
+          "end_line": 0
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/ARCHETYPES_AND_CRITERIA.md",
+          "start_line": 1,
+          "end_line": 210
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/R-A_BROAD_MAPPER.md",
+          "start_line": 1,
+          "end_line": 484
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/R-B_CHALLENGER.md",
+          "start_line": 1,
+          "end_line": 183
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/STATUS.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/V-C_ADVERSARIAL.md",
+          "start_line": 1,
+          "end_line": 124
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-0/V-D_ARCHITECTURAL.md",
+          "start_line": 1,
+          "end_line": 143
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/MASTER_TAXONOMY.md",
+          "start_line": 1,
+          "end_line": 475
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/STATUS.md",
+          "start_line": 1,
+          "end_line": 32
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-1/BATCH-1_EXECUTION_AND_AGENCY.md",
+          "start_line": 1,
+          "end_line": 210
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-1/R-A_BROAD_MAPPER.md",
+          "start_line": 1,
+          "end_line": 424
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-1/R-B_CHALLENGER.md",
+          "start_line": 1,
+          "end_line": 256
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-1/V-C_ADVERSARIAL.md",
+          "start_line": 1,
+          "end_line": 93
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-1/V-D_ARCHITECTURAL.md",
+          "start_line": 1,
+          "end_line": 121
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-2/BATCH-2_CONTEXT_MEMORY_KNOWLEDGE.md",
+          "start_line": 1,
+          "end_line": 239
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-2/R-A_BROAD_MAPPER.md",
+          "start_line": 1,
+          "end_line": 576
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-2/R-B_CHALLENGER.md",
+          "start_line": 1,
+          "end_line": 299
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-2/V-C_ADVERSARIAL.md",
+          "start_line": 1,
+          "end_line": 73
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-2/V-D_ARCHITECTURAL.md",
+          "start_line": 1,
+          "end_line": 116
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/BATCH-3_INTEGRATION_EXTENSIBILITY.md",
+          "start_line": 1,
+          "end_line": 112
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/R-A_BROAD_MAPPER_AGY.md",
+          "start_line": 1,
+          "end_line": 205
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/R-A_BROAD_MAPPER_PARTIAL.md",
+          "start_line": 1,
+          "end_line": 85
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/R-B_CHALLENGER_AGY_.md",
+          "start_line": 1,
+          "end_line": 240
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/V-C_ADVERSARIAL_AGY.md",
+          "start_line": 1,
+          "end_line": 336
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-3/V-D_ARCHITECTURAL_AGY.md",
+          "start_line": 1,
+          "end_line": 307
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-4/BATCH-4_SAFETY_GOVERNANCE.md",
+          "start_line": 1,
+          "end_line": 109
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W088",
+      "batch": "B19",
+      "files": [
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-4/R-A_SAFETY_AGY.md",
+          "start_line": 1,
+          "end_line": 390
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-4/R-B_SAFETY_AGY.md",
+          "start_line": 1,
+          "end_line": 267
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-4/V-C_SAFETY_AGY.md",
+          "start_line": 1,
+          "end_line": 362
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-4/V-D_SAFETY_AGY.md",
+          "start_line": 1,
+          "end_line": 273
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-5/BATCH-5_DX_OBSERVABILITY.md",
+          "start_line": 1,
+          "end_line": 95
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-5/R-A_DX_AGY.md",
+          "start_line": 1,
+          "end_line": 485
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-5/R-B_DX_AGY.md",
+          "start_line": 1,
+          "end_line": 254
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-5/V-C_DX_AGY.md",
+          "start_line": 1,
+          "end_line": 368
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/batch-5/V-D_DX_AGY.md",
+          "start_line": 1,
+          "end_line": 255
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/synthesis/MASTER_D1.md",
+          "start_line": 1,
+          "end_line": 493
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-1/synthesis/MASTER_D2.md",
+          "start_line": 1,
+          "end_line": 288
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/RANKINGS.md",
+          "start_line": 1,
+          "end_line": 121
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/RUBRIC.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/STATUS.md",
+          "start_line": 1,
+          "end_line": 7
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/rankings/G1_EXECUTION.md",
+          "start_line": 1,
+          "end_line": 286
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/rankings/G2_CONTEXT.md",
+          "start_line": 1,
+          "end_line": 390
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/rankings/G3_INTEGRATION.md",
+          "start_line": 1,
+          "end_line": 320
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/rankings/G4_SAFETY.md",
+          "start_line": 1,
+          "end_line": 384
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/rankings/G5_DX.md",
+          "start_line": 1,
+          "end_line": 281
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/verify/ARBITER_AGY.md",
+          "start_line": 1,
+          "end_line": 205
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/verify/ARCHETYPE_MATRIX_AGY.md",
+          "start_line": 1,
+          "end_line": 0
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/verify/CROSSBATCH_TENSION.md",
+          "start_line": 1,
+          "end_line": 168
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/verify/MECH_PROT_AGY.md",
+          "start_line": 1,
+          "end_line": 279
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-2/verify/MECH_PROT_P3_SCOUT.md",
+          "start_line": 1,
+          "end_line": 10
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/FRICTION_LOG.md",
+          "start_line": 1,
+          "end_line": 139
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/M_A_AGY.md",
+          "start_line": 1,
+          "end_line": 119
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/M_B_AGY.md",
+          "start_line": 1,
+          "end_line": 143
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/M_C_AGY.md",
+          "start_line": 1,
+          "end_line": 0
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/STATUS.md",
+          "start_line": 1,
+          "end_line": 7
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/VALIDATION_PLAN.md",
+          "start_line": 1,
+          "end_line": 32
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/VALIDATION_REPORT.md",
+          "start_line": 1,
+          "end_line": 57
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/V_AUTHOR_AGY.md",
+          "start_line": 1,
+          "end_line": 256
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3.5/V_COHERENCE_AGY.md",
+          "start_line": 1,
+          "end_line": 195
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/PLAN.md",
+          "start_line": 1,
+          "end_line": 50
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/STATUS.md",
+          "start_line": 1,
+          "end_line": 7
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/TOOL_SELECTION_INDEX.md",
+          "start_line": 1,
+          "end_line": 93
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-A_EXECUTION.md",
+          "start_line": 1,
+          "end_line": 206
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-B_CONTEXT.md",
+          "start_line": 1,
+          "end_line": 416
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-C_INTEGRATION.md",
+          "start_line": 1,
+          "end_line": 493
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-D_SAFETY.md",
+          "start_line": 1,
+          "end_line": 679
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-E_DX_META.md",
+          "start_line": 1,
+          "end_line": 327
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-F_A_TIER.md",
+          "start_line": 1,
+          "end_line": 382
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-G_A_TIER_2.md",
+          "start_line": 1,
+          "end_line": 317
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/tools/T-H_B_TIER.md",
+          "start_line": 1,
+          "end_line": 371
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/verify/CROSS_TOOL_OVERLAP.md",
+          "start_line": 1,
+          "end_line": 187
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/verify/VERIFICATION_PASS1.md",
+          "start_line": 1,
+          "end_line": 101
+        },
+        {
+          "source": "files/solo-levelling/the harness/phase-3/verify/VERIFICATION_PASS2.md",
+          "start_line": 1,
+          "end_line": 154
+        },
+        {
+          "source": "files/solo-levelling/the harness/plan.md",
+          "start_line": 1,
+          "end_line": 393
+        },
+        {
+          "source": "files/solo-levelling/the harness/scripts/__init__.py",
+          "start_line": 1,
+          "end_line": 1
+        },
+        {
+          "source": "files/solo-levelling/the harness/scripts/mock_telemetry_daemon.py",
+          "start_line": 1,
+          "end_line": 517
+        },
+        {
+          "source": "files/solo-levelling/the harness/scripts/run_validation.sh",
+          "start_line": 1,
+          "end_line": 89
+        },
+        {
+          "source": "files/solo-levelling/the harness/update.md",
+          "start_line": 1,
+          "end_line": 60
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/REMAINING_GAPS.md",
+          "start_line": 1,
+          "end_line": 270
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-KB-1.md",
+          "start_line": 1,
+          "end_line": 154
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-KB-2.md",
+          "start_line": 1,
+          "end_line": 148
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-KB-3.md",
+          "start_line": 1,
+          "end_line": 110
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-KB-4.md",
+          "start_line": 1,
+          "end_line": 105
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-1.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-2.md",
+          "start_line": 1,
+          "end_line": 94
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-3.md",
+          "start_line": 1,
+          "end_line": 154
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-4.md",
+          "start_line": 1,
+          "end_line": 159
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-5.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-OB-6.md",
+          "start_line": 1,
+          "end_line": 122
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-SYN-1.md",
+          "start_line": 1,
+          "end_line": 269
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-SYN-2.md",
+          "start_line": 1,
+          "end_line": 123
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-1.md",
+          "start_line": 1,
+          "end_line": 196
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-2.md",
+          "start_line": 1,
+          "end_line": 165
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-3.md",
+          "start_line": 1,
+          "end_line": 156
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-4.md",
+          "start_line": 1,
+          "end_line": 118
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-5.md",
+          "start_line": 1,
+          "end_line": 152
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-6.md",
+          "start_line": 1,
+          "end_line": 162
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-7.md",
+          "start_line": 1,
+          "end_line": 93
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TO-8.md",
+          "start_line": 1,
+          "end_line": 114
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-1.md",
+          "start_line": 1,
+          "end_line": 132
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-2.md",
+          "start_line": 1,
+          "end_line": 125
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-3.md",
+          "start_line": 1,
+          "end_line": 109
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-4.md",
+          "start_line": 1,
+          "end_line": 87
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-5.md",
+          "start_line": 1,
+          "end_line": 74
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-6.md",
+          "start_line": 1,
+          "end_line": 109
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-7.md",
+          "start_line": 1,
+          "end_line": 122
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/V-TX-8.md",
+          "start_line": 1,
+          "end_line": 104
+        },
+        {
+          "source": "files/solo-levelling/the harness/validation/VALIDATION_AUDIT.md",
+          "start_line": 1,
+          "end_line": 270
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W089",
+      "batch": "B20",
+      "files": [
+        {
+          "source": "files/deve/.cursorrules",
+          "start_line": 1,
+          "end_line": 12
+        },
+        {
+          "source": "files/deve/.env.template",
+          "start_line": 1,
+          "end_line": 13
+        },
+        {
+          "source": "files/deve/.gitignore",
+          "start_line": 1,
+          "end_line": 4
+        },
+        {
+          "source": "files/deve/.harness/README.md",
+          "start_line": 1,
+          "end_line": 27
+        },
+        {
+          "source": "files/deve/.harness/config/harness.yaml",
+          "start_line": 1,
+          "end_line": 50
+        },
+        {
+          "source": "files/deve/.harness/hooks/hooks.json",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/deve/.harness/hooks/pre_tool_guard.py",
+          "start_line": 1,
+          "end_line": 121
+        },
+        {
+          "source": "files/deve/.harness/mcp/tools.yaml",
+          "start_line": 1,
+          "end_line": 99
+        },
+        {
+          "source": "files/deve/.harness/permissions/check.py",
+          "start_line": 1,
+          "end_line": 60
+        },
+        {
+          "source": "files/deve/.harness/permissions/policies.cedar",
+          "start_line": 1,
+          "end_line": 82
+        },
+        {
+          "source": "files/deve/.harness/permissions/presets.json",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/deve/.harness/sandbox/gate.sh",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/deve/.harness/skills/alternatives-generator/SKILL.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/deve/.harness/skills/failure-mode-analyzer/SKILL.md",
+          "start_line": 1,
+          "end_line": 37
+        },
+        {
+          "source": "files/deve/.harness/skills/fcar-reviewer/SKILL.md",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/deve/.harness/skills/launch-checklist-runner/SKILL.md",
+          "start_line": 1,
+          "end_line": 51
+        },
+        {
+          "source": "files/deve/.harness/skills/postmortem-opener/SKILL.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/deve/.harness/skills/scope-gate/SKILL.md",
+          "start_line": 1,
+          "end_line": 35
+        },
+        {
+          "source": "files/deve/.harness/skills/stakes-classifier/SKILL.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/deve/.harness/skills/unknown-first-sorter/SKILL.md",
+          "start_line": 1,
+          "end_line": 36
+        },
+        {
+          "source": "files/deve/.harness/skills/working-backwards/SKILL.md",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/deve/.harness/telemetry/guard.log",
+          "start_line": 1,
+          "end_line": 11
+        },
+        {
+          "source": "files/deve/.harness/telemetry/litellm-config.yaml",
+          "start_line": 1,
+          "end_line": 36
+        },
+        {
+          "source": "files/deve/.harness/workflows/alternatives-generator.yaml",
+          "start_line": 1,
+          "end_line": 36
+        },
+        {
+          "source": "files/deve/.harness/workflows/deploy-monitor.yaml",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/deve/.harness/workflows/failure-mode-analyzer.yaml",
+          "start_line": 1,
+          "end_line": 34
+        },
+        {
+          "source": "files/deve/.harness/workflows/fcar-review.yaml",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/deve/.harness/workflows/launch-checklist.yaml",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/deve/.harness/workflows/postmortem.yaml",
+          "start_line": 1,
+          "end_line": 39
+        },
+        {
+          "source": "files/deve/.harness/workflows/scope-gate.yaml",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/deve/.harness/workflows/stakes-classifier.yaml",
+          "start_line": 1,
+          "end_line": 40
+        },
+        {
+          "source": "files/deve/.harness/workflows/unknown-first-sorter.yaml",
+          "start_line": 1,
+          "end_line": 37
+        },
+        {
+          "source": "files/deve/.harness/workflows/working-backwards.yaml",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/deve/.pytest_cache/.gitignore",
+          "start_line": 1,
+          "end_line": 2
+        },
+        {
+          "source": "files/deve/.pytest_cache/CACHEDIR.TAG",
+          "start_line": 1,
+          "end_line": 4
+        },
+        {
+          "source": "files/deve/.pytest_cache/README.md",
+          "start_line": 1,
+          "end_line": 8
+        },
+        {
+          "source": "files/deve/.pytest_cache/v/cache/lastfailed",
+          "start_line": 1,
+          "end_line": 1
+        },
+        {
+          "source": "files/deve/.pytest_cache/v/cache/nodeids",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/deve/AGENTS.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/deve/CLAUDE.md",
+          "start_line": 1,
+          "end_line": 66
+        },
+        {
+          "source": "files/deve/Taskfile.yml",
+          "start_line": 1,
+          "end_line": 80
+        },
+        {
+          "source": "files/deve/lefthook.yml",
+          "start_line": 1,
+          "end_line": 17
+        },
+        {
+          "source": "files/deve/os/README.md",
+          "start_line": 1,
+          "end_line": 32
+        },
+        {
+          "source": "files/deve/os/artifacts/build-log-template.md",
+          "start_line": 1,
+          "end_line": 24
+        },
+        {
+          "source": "files/deve/os/artifacts/design-note-template.md",
+          "start_line": 1,
+          "end_line": 41
+        },
+        {
+          "source": "files/deve/os/artifacts/launch-checklist-template.md",
+          "start_line": 1,
+          "end_line": 24
+        },
+        {
+          "source": "files/deve/os/artifacts/pitch-template.md",
+          "start_line": 1,
+          "end_line": 28
+        },
+        {
+          "source": "files/deve/os/artifacts/postmortem-template.md",
+          "start_line": 1,
+          "end_line": 31
+        },
+        {
+          "source": "files/deve/os/artifacts/prfaq-template.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/deve/os/decision-architecture.md",
+          "start_line": 1,
+          "end_line": 33
+        },
+        {
+          "source": "files/deve/os/engineering-rules.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/deve/os/fcar-rubric.md",
+          "start_line": 1,
+          "end_line": 41
+        },
+        {
+          "source": "files/deve/os/gates.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/deve/os/lifecycle.md",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/deve/os/quality-security.md",
+          "start_line": 1,
+          "end_line": 38
+        },
+        {
+          "source": "files/deve/os/release-experiments.md",
+          "start_line": 1,
+          "end_line": 30
+        },
+        {
+          "source": "files/deve/os/roles.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/deve/scripts/scope-check.py",
+          "start_line": 1,
+          "end_line": 106
+        },
+        {
+          "source": "files/deve/scripts/secret-scan.sh",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/deve/scripts/spend-log.sh",
+          "start_line": 1,
+          "end_line": 29
+        },
+        {
+          "source": "files/deve/scripts/test_pre_tool_guard.py",
+          "start_line": 1,
+          "end_line": 171
+        },
+        {
+          "source": "files/deve/scripts/test_scope_check.py",
+          "start_line": 1,
+          "end_line": 193
+        },
+        {
+          "source": "files/deve/scripts/verify.sh",
+          "start_line": 1,
+          "end_line": 75
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W090",
+      "batch": "B21",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/report/01-executive-findings.md",
+          "start_line": 1,
+          "end_line": 94
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/02-three-ai-domains.md",
+          "start_line": 1,
+          "end_line": 135
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/03-product-lifecycle.md",
+          "start_line": 1,
+          "end_line": 206
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/04-company-case-studies.md",
+          "start_line": 1,
+          "end_line": 121
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/05-ai-agent-architecture.md",
+          "start_line": 1,
+          "end_line": 130
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/06-automation-stack-workflows.md",
+          "start_line": 1,
+          "end_line": 106
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/07-authenticity-anti-slop.md",
+          "start_line": 1,
+          "end_line": 140
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/08-functional-completeness.md",
+          "start_line": 1,
+          "end_line": 113
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/09-accessibility-performance-ux.md",
+          "start_line": 1,
+          "end_line": 135
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/10-security-privacy-governance.md",
+          "start_line": 1,
+          "end_line": 114
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W091",
+      "batch": "B21",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/report/11-testing-quality-deployment-ops.md",
+          "start_line": 1,
+          "end_line": 140
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/12-business-viability.md",
+          "start_line": 1,
+          "end_line": 131
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/13-bottleneck-analysis.md",
+          "start_line": 1,
+          "end_line": 146
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/14-rules-anti-patterns.md",
+          "start_line": 1,
+          "end_line": 200
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/15-reference-architecture.md",
+          "start_line": 1,
+          "end_line": 213
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/16-implementation-roadmap.md",
+          "start_line": 1,
+          "end_line": 160
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/17-checklists-templates.md",
+          "start_line": 1,
+          "end_line": 271
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/18-evidence-register.md",
+          "start_line": 1,
+          "end_line": 141
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/19-missing-topics.md",
+          "start_line": 1,
+          "end_line": 185
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/20-compulsory-disciplines.md",
+          "start_line": 1,
+          "end_line": 237
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/report/README.md",
+          "start_line": 1,
+          "end_line": 67
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W092",
+      "batch": "B22",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/discovery/01-problem-discovery.md",
+          "start_line": 1,
+          "end_line": 240
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discovery/02-ideation-prioritisation.md",
+          "start_line": 1,
+          "end_line": 207
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discovery/03-validation.md",
+          "start_line": 1,
+          "end_line": 164
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discovery/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 89
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/01-research-planning.md",
+          "start_line": 1,
+          "end_line": 73
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/02-requirements-specifications.md",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/03-ux-research-design.md",
+          "start_line": 1,
+          "end_line": 72
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/04-prototyping-frontend.md",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/05-codebase-exploration-implementation.md",
+          "start_line": 1,
+          "end_line": 94
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/06-testing-debugging-review.md",
+          "start_line": 1,
+          "end_line": 79
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/07-security-quality-assurance.md",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/08-cicd-deployment.md",
+          "start_line": 1,
+          "end_line": 69
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/09-monitoring-incident-response.md",
+          "start_line": 1,
+          "end_line": 76
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/10-documentation-maintenance.md",
+          "start_line": 1,
+          "end_line": 67
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/11-domain-boundaries.md",
+          "start_line": 1,
+          "end_line": 49
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-a/12-evidence-register.md",
+          "start_line": 1,
+          "end_line": 125
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/01-llm-features.md",
+          "start_line": 1,
+          "end_line": 79
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/02-rag.md",
+          "start_line": 1,
+          "end_line": 75
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/03-ai-assistants.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/04-recommendations.md",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/05-ai-search-extraction.md",
+          "start_line": 1,
+          "end_line": 75
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/06-multimodal.md",
+          "start_line": 1,
+          "end_line": 93
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/07-tool-using-agents.md",
+          "start_line": 1,
+          "end_line": 98
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/08-evals.md",
+          "start_line": 1,
+          "end_line": 82
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/09-cost-latency-reliability.md",
+          "start_line": 1,
+          "end_line": 98
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/10-security-ops.md",
+          "start_line": 1,
+          "end_line": 122
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W093",
+      "batch": "B22",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/11-domain-boundaries.md",
+          "start_line": 1,
+          "end_line": 80
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-b/12-evidence-register.md",
+          "start_line": 1,
+          "end_line": 615
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/01-customer-support.md",
+          "start_line": 1,
+          "end_line": 103
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/02-research-knowledge-management.md",
+          "start_line": 1,
+          "end_line": 88
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/03-internal-operations.md",
+          "start_line": 1,
+          "end_line": 88
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/04-sales-customer-success.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/05-analytics-reporting.md",
+          "start_line": 1,
+          "end_line": 86
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/06-administrative-processes.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/07-engineering-coordination.md",
+          "start_line": 1,
+          "end_line": 87
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/08-business-workflows.md",
+          "start_line": 1,
+          "end_line": 85
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/09-domain-boundaries.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/domain-c/10-evidence-register.md",
+          "start_line": 1,
+          "end_line": 95
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/spec-arch/01-requirements-specs.md",
+          "start_line": 1,
+          "end_line": 198
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/spec-arch/02-architecture-decisions.md",
+          "start_line": 1,
+          "end_line": 181
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/spec-arch/03-repo-foundations.md",
+          "start_line": 1,
+          "end_line": 113
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/spec-arch/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 89
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/ux-states/01-polish-details.md",
+          "start_line": 1,
+          "end_line": 245
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/ux-states/02-ux-state-matrix.md",
+          "start_line": 1,
+          "end_line": 116
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/ux-states/03-demo-authenticity.md",
+          "start_line": 1,
+          "end_line": 82
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/ux-states/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 188
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/quality/01-functional-audit.md",
+          "start_line": 1,
+          "end_line": 154
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/quality/02-accessibility.md",
+          "start_line": 1,
+          "end_line": 150
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/quality/03-quality-gates.md",
+          "start_line": 1,
+          "end_line": 200
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/quality/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 128
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/automation/01-automation-stack.md",
+          "start_line": 1,
+          "end_line": 256
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W094",
+      "batch": "B22",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/automation/02-workflows.md",
+          "start_line": 1,
+          "end_line": 267
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/automation/03-evidence-register.md",
+          "start_line": 1,
+          "end_line": 140
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/build-ship/01-implementation-quality.md",
+          "start_line": 1,
+          "end_line": 162
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/build-ship/02-testing-deployment.md",
+          "start_line": 1,
+          "end_line": 133
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/build-ship/03-production-ops.md",
+          "start_line": 1,
+          "end_line": 126
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/build-ship/04-adoption-viability.md",
+          "start_line": 1,
+          "end_line": 117
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/build-ship/05-evidence-register.md",
+          "start_line": 1,
+          "end_line": 112
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/economics/01-delivery-economics.md",
+          "start_line": 1,
+          "end_line": 439
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/economics/02-bottleneck-analysis.md",
+          "start_line": 1,
+          "end_line": 178
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/economics/03-productivity-evidence-review.md",
+          "start_line": 1,
+          "end_line": 405
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/economics/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 363
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/gaps/00-index.md",
+          "start_line": 1,
+          "end_line": 49
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/gaps/01-missing-topics.md",
+          "start_line": 1,
+          "end_line": 169
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/gaps/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 128
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/authenticity/01-authenticity-principles.md",
+          "start_line": 1,
+          "end_line": 96
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/authenticity/02-visual-identity.md",
+          "start_line": 1,
+          "end_line": 123
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/authenticity/03-anti-pattern-catalogue.md",
+          "start_line": 1,
+          "end_line": 112
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/authenticity/04-evidence-register.md",
+          "start_line": 1,
+          "end_line": 72
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/01-auth-account.md",
+          "start_line": 1,
+          "end_line": 103
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/02-app-api.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/03-database-secrets.md",
+          "start_line": 1,
+          "end_line": 60
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/04-ai-agent-security.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/05-privacy-legal.md",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/06-classification-index.md",
+          "start_line": 1,
+          "end_line": 356
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/security/07-evidence-register.md",
+          "start_line": 1,
+          "end_line": 53
+        }
+      ],
+      "model_hint": "big"
+    },
+    {
+      "shard": "W095",
+      "batch": "B23",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/00-index.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/01-cloudflare.md",
+          "start_line": 1,
+          "end_line": 70
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/02-fastly.md",
+          "start_line": 1,
+          "end_line": 54
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/03-figma.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/04-notion.md",
+          "start_line": 1,
+          "end_line": 54
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/05-discord.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/06-linear.md",
+          "start_line": 1,
+          "end_line": 51
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/07-tailscale.md",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/08-sourcegraph.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/09-gitlab.md",
+          "start_line": 1,
+          "end_line": 50
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/10-etsy.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/11-basecamp.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/12-jane-street.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/13-palantir.md",
+          "start_line": 1,
+          "end_line": 52
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/14-spacex.md",
+          "start_line": 1,
+          "end_line": 56
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/15-apple.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/16-knight-capital.md",
+          "start_line": 1,
+          "end_line": 44
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/17-netscape-mozilla.md",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/18-healthcare-gov.md",
+          "start_line": 1,
+          "end_line": 44
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/19-digg-v4.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/20-google-wave.md",
+          "start_line": 1,
+          "end_line": 44
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/21-windows-vista.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/22-firefox-os.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/23-valve.md",
+          "start_line": 1,
+          "end_line": 51
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/24-riot-games.md",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/25-ccp-games.md",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/26-pinboard.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/27-tailwind-labs.md",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/28-tesla.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/29-framework.md",
+          "start_line": 1,
+          "end_line": 50
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/30-ibm-carbon.md",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/31-atlassian.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/32-adobe-spectrum.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/33-salesforce-lightning.md",
+          "start_line": 1,
+          "end_line": 43
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W096",
+      "batch": "B23",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/34-vercel.md",
+          "start_line": 1,
+          "end_line": 48
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/35-datadog.md",
+          "start_line": 1,
+          "end_line": 49
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/36-slack.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/37-lean-outliers.md",
+          "start_line": 1,
+          "end_line": 52
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-companies/evidence-register.md",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/00-index.md",
+          "start_line": 1,
+          "end_line": 73
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/01-coding-agents.md",
+          "start_line": 1,
+          "end_line": 175
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/02-agent-frameworks.md",
+          "start_line": 1,
+          "end_line": 172
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/03-testing.md",
+          "start_line": 1,
+          "end_line": 124
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/04-feature-flags-experimentation.md",
+          "start_line": 1,
+          "end_line": 134
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/05-cicd-gitops.md",
+          "start_line": 1,
+          "end_line": 142
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/06-observability.md",
+          "start_line": 1,
+          "end_line": 126
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/07-incident-management.md",
+          "start_line": 1,
+          "end_line": 110
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/08-design-prototyping.md",
+          "start_line": 1,
+          "end_line": 168
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/09-documentation.md",
+          "start_line": 1,
+          "end_line": 114
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/10-analytics.md",
+          "start_line": 1,
+          "end_line": 103
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/11-ai-eval-harnesses.md",
+          "start_line": 1,
+          "end_line": 144
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/12-workflow-orchestration.md",
+          "start_line": 1,
+          "end_line": 113
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/13-secrets-management.md",
+          "start_line": 1,
+          "end_line": 98
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/14-discovery-research.md",
+          "start_line": 1,
+          "end_line": 80
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/15-project-management.md",
+          "start_line": 1,
+          "end_line": 103
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/16-databases-caching.md",
+          "start_line": 1,
+          "end_line": 154
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/17-paas-deploy.md",
+          "start_line": 1,
+          "end_line": 150
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/18-game-creative-runtimes.md",
+          "start_line": 1,
+          "end_line": 62
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-tools/evidence-register.md",
+          "start_line": 1,
+          "end_line": 129
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/00-index.md",
+          "start_line": 1,
+          "end_line": 90
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/01-contrarian-methodologies.md",
+          "start_line": 1,
+          "end_line": 210
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/02-abandoned-approaches.md",
+          "start_line": 1,
+          "end_line": 155
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/03-unwritten-rules.md",
+          "start_line": 1,
+          "end_line": 102
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/04-extreme-practices.md",
+          "start_line": 1,
+          "end_line": 114
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/05-indie-bootstrapper-wisdom.md",
+          "start_line": 1,
+          "end_line": 87
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/06-ai-era-fringe.md",
+          "start_line": 1,
+          "end_line": 111
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/07-craft-culture.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/expansion-practices/evidence-register.md",
+          "start_line": 1,
+          "end_line": 107
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W097",
+      "batch": "B24",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/00-index.md",
+          "start_line": 1,
+          "end_line": 47
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/01-google.md",
+          "start_line": 1,
+          "end_line": 99
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/02-microsoft.md",
+          "start_line": 1,
+          "end_line": 85
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/03-meta.md",
+          "start_line": 1,
+          "end_line": 80
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/04-amazon.md",
+          "start_line": 1,
+          "end_line": 84
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/05-nvidia.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/06-openai.md",
+          "start_line": 1,
+          "end_line": 76
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/07-anthropic.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/08-github.md",
+          "start_line": 1,
+          "end_line": 76
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/09-stripe.md",
+          "start_line": 1,
+          "end_line": 67
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/10-shopify.md",
+          "start_line": 1,
+          "end_line": 66
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/11-uber.md",
+          "start_line": 1,
+          "end_line": 67
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/12-netflix.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/13-spotify.md",
+          "start_line": 1,
+          "end_line": 64
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/14-airbnb.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/15-cursor.md",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/16-replit.md",
+          "start_line": 1,
+          "end_line": 67
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/forensics/evidence-register.md",
+          "start_line": 1,
+          "end_line": 202
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/01-google.md",
+          "start_line": 1,
+          "end_line": 96
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/02-microsoft.md",
+          "start_line": 1,
+          "end_line": 91
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W098",
+      "batch": "B24",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/03-meta.md",
+          "start_line": 1,
+          "end_line": 89
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/04-amazon.md",
+          "start_line": 1,
+          "end_line": 92
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/05-nvidia.md",
+          "start_line": 1,
+          "end_line": 90
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/06-cross-company-lessons.md",
+          "start_line": 1,
+          "end_line": 67
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-hyperscale/07-evidence-register.md",
+          "start_line": 1,
+          "end_line": 116
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/01-openai.md",
+          "start_line": 1,
+          "end_line": 81
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/02-anthropic.md",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/03-github.md",
+          "start_line": 1,
+          "end_line": 61
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/04-stripe.md",
+          "start_line": 1,
+          "end_line": 69
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/05-shopify.md",
+          "start_line": 1,
+          "end_line": 65
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/06-uber.md",
+          "start_line": 1,
+          "end_line": 58
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/07-netflix.md",
+          "start_line": 1,
+          "end_line": 62
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/08-spotify.md",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/09-airbnb.md",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/10-cursor.md",
+          "start_line": 1,
+          "end_line": 69
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/11-replit.md",
+          "start_line": 1,
+          "end_line": 60
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/12-tool-intelligence.md",
+          "start_line": 1,
+          "end_line": 267
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/13-cross-company-lessons.md",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/cases-product/14-evidence-register.md",
+          "start_line": 1,
+          "end_line": 58
+        }
+      ],
+      "model_hint": "small"
+    },
+    {
+      "shard": "W099",
+      "batch": "B25",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/evidence/coverage-matrix.md",
+          "start_line": 1,
+          "end_line": 251
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/evidence/final-research-audit.md",
+          "start_line": 1,
+          "end_line": 91
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/evidence/merged-evidence-register.md",
+          "start_line": 1,
+          "end_line": 1628
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/evidence/source-directory.md",
+          "start_line": 1,
+          "end_line": 1159
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/evidence/unresolved-questions.md",
+          "start_line": 1,
+          "end_line": 116
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/appendices/A-expansion-companies.md",
+          "start_line": 1,
+          "end_line": 107
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/appendices/B-expansion-tools.md",
+          "start_line": 1,
+          "end_line": 111
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/appendices/C-expansion-practices.md",
+          "start_line": 1,
+          "end_line": 56
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/appendices/D-forensics-digest.md",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/appendices/E-tool-intelligence-register.md",
+          "start_line": 1,
+          "end_line": 1744
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/01-engineering-rules.md",
+          "start_line": 1,
+          "end_line": 490
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/02-anti-patterns.md",
+          "start_line": 1,
+          "end_line": 208
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/03-small-team-os.md",
+          "start_line": 1,
+          "end_line": 163
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/00-index.md",
+          "start_line": 1,
+          "end_line": 43
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/01-problem-validation.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/02-idea-evaluation.md",
+          "start_line": 1,
+          "end_line": 57
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/03-prd.md",
+          "start_line": 1,
+          "end_line": 69
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/04-technical-design-document.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/05-architecture-decision-record.md",
+          "start_line": 1,
+          "end_line": 45
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/06-design-system-definition.md",
+          "start_line": 1,
+          "end_line": 66
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/07-prototype-acceptance.md",
+          "start_line": 1,
+          "end_line": 50
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/08-development-task-definition.md",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/09-agent-instructions.md",
+          "start_line": 1,
+          "end_line": 64
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/10-test-plan.md",
+          "start_line": 1,
+          "end_line": 59
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/11-code-review.md",
+          "start_line": 1,
+          "end_line": 57
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/12-ux-visual-qa.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/13-security-verification.md",
+          "start_line": 1,
+          "end_line": 72
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/14-release-readiness.md",
+          "start_line": 1,
+          "end_line": 62
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/15-incident-response.md",
+          "start_line": 1,
+          "end_line": 75
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/16-post-launch-evaluation.md",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/17-product-authenticity-polish.md",
+          "start_line": 1,
+          "end_line": 77
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/04-templates/18-launch-readiness.md",
+          "start_line": 1,
+          "end_line": 66
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/rules/05-evidence-register.md",
+          "start_line": 1,
+          "end_line": 494
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-ai-act/01-ai-act-engineering.md",
+          "start_line": 1,
+          "end_line": 176
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-ai-act/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 54
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-api-product/01-api-product.md",
+          "start_line": 1,
+          "end_line": 186
+        }
+      ],
+      "model_hint": "medium"
+    },
+    {
+      "shard": "W100",
+      "batch": "B25",
+      "files": [
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-api-product/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 56
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-billing/01-billing-engineering.md",
+          "start_line": 1,
+          "end_line": 164
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-billing/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 133
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-blindspots/01-blindspots.md",
+          "start_line": 1,
+          "end_line": 191
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-blindspots/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 33
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-compliance/01-compliance-engineering.md",
+          "start_line": 1,
+          "end_line": 244
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-compliance/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 55
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-finops/01-finops.md",
+          "start_line": 1,
+          "end_line": 531
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-finops/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 470
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-mobile-release/01-mobile-release.md",
+          "start_line": 1,
+          "end_line": 220
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-mobile-release/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 44
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-notifications/01-notifications.md",
+          "start_line": 1,
+          "end_line": 235
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-notifications/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 118
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-trust-safety/01-trust-safety.md",
+          "start_line": 1,
+          "end_line": 208
+        },
+        {
+          "source": "files/builders-playbook/product_engineering/research/discipline-trust-safety/02-evidence-register.md",
+          "start_line": 1,
+          "end_line": 46
+        },
+        {
+          "source": "files/builders-playbook/README.md",
+          "start_line": 1,
+          "end_line": 63
+        },
+        {
+          "source": "files/builders-playbook/01-hackathon-win-system.md",
+          "start_line": 1,
+          "end_line": 119
+        },
+        {
+          "source": "files/builders-playbook/02-project-execution-plan.md",
+          "start_line": 1,
+          "end_line": 138
+        },
+        {
+          "source": "files/builders-playbook/03-checklists.md",
+          "start_line": 1,
+          "end_line": 71
+        },
+        {
+          "source": "files/builders-playbook/templates/battle-plan-48h.md",
+          "start_line": 1,
+          "end_line": 68
+        },
+        {
+          "source": "files/builders-playbook/templates/build-log.md",
+          "start_line": 1,
+          "end_line": 19
+        },
+        {
+          "source": "files/builders-playbook/templates/demo-script.md",
+          "start_line": 1,
+          "end_line": 53
+        },
+        {
+          "source": "files/builders-playbook/templates/idea-evaluator.md",
+          "start_line": 1,
+          "end_line": 60
+        },
+        {
+          "source": "files/builders-playbook/templates/project-retrospective.md",
+          "start_line": 1,
+          "end_line": 33
+        },
+        {
+          "source": "files/builders-playbook/research/hackathon-intel-evidence.md",
+          "start_line": 1,
+          "end_line": 42
+        },
+        {
+          "source": "files/builders-playbook/research/hackathon-intel-notes.md",
+          "start_line": 1,
+          "end_line": 249
+        }
+      ],
+      "model_hint": "medium"
+    }
+  ],
+  "meta": {
+    "shards": 100,
+    "files_covered": 707,
+    "note": "B10 split W025 owner, catalog split W002 owner, 01b split W065 owner; B06 doubles W039/W040; live wc -l used for ranges; 32 banner declared vs live +1 noted",
+    "model_routing": {
+      "agy": [
+        "gemini-3.8-flash-medium (all shards, no high variants)"
+      ],
+      "opencode_free_good_context": [
+        "opencode/longcat-2.5-preview-free",
+        "opencode/nemotron-3-ultra-free",
+        "opencode/muse-spark-1.3-contributor-free"
+      ],
+      "openrouter_allowed_only": [
+        "openrouter/nvidia/nemotron-3-ultra-550b-a55b:free",
+        "openrouter/poolside/laguna-s-2.1:free"
+      ],
+      "policy": "opencode provider free-only with good context; openrouter only nemotron-ultra + laguna-s; agy unchanged"
+    }
+  }
+}

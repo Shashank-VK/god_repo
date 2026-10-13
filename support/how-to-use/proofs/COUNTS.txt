@@ -1,0 +1,10 @@
+1033 how-to-use/00-rules.md
+263 how-to-use/01-skills.md
+39 how-to-use/02-mcp.md
+711 how-to-use/03-agents-harness-context.md
+697 how-to-use/04-commands-workflows.md
+268 how-to-use/05-styles.md
+116 how-to-use/06-watchlist-new-discoveries.md
+2244 how-to-use/07-anti-patterns.md
+711 how-to-use/08-index.md
+707 how-to-use/index.jsonl
