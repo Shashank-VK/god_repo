@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def test_third_party_index_valid():
-    idx = json.loads((ROOT / "os" / "third-party-index.json").read_text())["entries"]
+    idx = json.loads((ROOT / "os" / "third-party-index.json").read_text(encoding="utf-8"))["entries"]
     assert len(idx) >= 35, f"expected >=35 URL-backed entries, got {len(idx)}"
     for e in idx:
         assert e.get("name") and e.get("trigger"), f"entry missing name/trigger: {e}"
@@ -17,5 +17,5 @@ def test_third_party_index_valid():
 
 def test_registry_docs_exist():
     for f in ["os/THIRD-PARTY-SKILLS.md", "os/THIRD-PARTY-MCP.md", "os/THIRD-PARTY-AGENTS.md"]:
-        text = (ROOT / f).read_text()
+        text = (ROOT / f).read_text(encoding="utf-8")
         assert "github.com/" in text, f"{f} cites no sources"

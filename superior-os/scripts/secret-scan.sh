@@ -23,6 +23,9 @@ for pattern in "${SECRET_PATTERNS[@]}"; do
   matches=$(grep -rniE "$pattern" "$TARGET" \
     --exclude-dir=".git" \
     --exclude-dir="node_modules" \
+    --exclude-dir="__pycache__" \
+    --exclude-dir=".pytest_cache" \
+    --exclude="*.pyc" \
     --exclude="*.env.template" \
     --exclude="secret-scan.sh" \
     --exclude="GOD_PROMPT.md" \

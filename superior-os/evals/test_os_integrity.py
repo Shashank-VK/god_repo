@@ -6,11 +6,11 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def test_skills_index_matches_dirs():
-    idx = json.loads((ROOT / ".harness/skills/index.json").read_text())["skills"]
+    idx = json.loads((ROOT / ".harness/skills/index.json").read_text(encoding="utf-8"))["skills"]
     dirs = sorted(p.name for p in (ROOT / ".harness/skills").iterdir() if p.is_dir())
     assert sorted(s["name"] for s in idx) == dirs, "index.json out of sync with skill dirs"
     for s in idx:
-        text = (ROOT / ".harness/skills" / s["name"] / "SKILL.md").read_text()
+        text = (ROOT / ".harness/skills" / s["name"] / "SKILL.md").read_text(encoding="utf-8")
         v2_style = "## DoD" in text and "## Must NOT" in text
         # deve v1.0 frontmatter contract counts: named binding to a workflow/gate + evidence language
         v1_style = (
@@ -25,23 +25,23 @@ def test_skills_index_matches_dirs():
 def test_configs_parse():
     import yaml
 
-    yaml.safe_load((ROOT / "Taskfile.yml").read_text())
-    yaml.safe_load((ROOT / ".harness/config/harness.yaml").read_text())
-    yaml.safe_load((ROOT / ".harness/mcp/tools.yaml").read_text())
+    yaml.safe_load((ROOT / "Taskfile.yml").read_text(encoding="utf-8"))
+    yaml.safe_load((ROOT / ".harness/config/harness.yaml").read_text(encoding="utf-8"))
+    yaml.safe_load((ROOT / ".harness/mcp/tools.yaml").read_text(encoding="utf-8"))
     for wf in (ROOT / ".harness/workflows").glob("*.yaml"):
-        d = yaml.safe_load(wf.read_text())
+        d = yaml.safe_load(wf.read_text(encoding="utf-8"))
         assert "states" in d, f"{wf.name} missing states"
     for f in [
         ROOT / ".harness/hooks/hooks.json",
         ROOT / ".harness/permissions/presets.json",
         ROOT / ".harness/skills/index.json",
     ]:
-        json.loads(f.read_text())
+        json.loads(f.read_text(encoding="utf-8"))
 
 
 def test_harness_version():
     import yaml
 
-    cfg = yaml.safe_load((ROOT / ".harness/config/harness.yaml").read_text())
+    cfg = yaml.safe_load((ROOT / ".harness/config/harness.yaml").read_text(encoding="utf-8"))
     assert cfg["harness"]["version"] == "2.0.0"
     assert cfg["skills"]["count"] == 24
